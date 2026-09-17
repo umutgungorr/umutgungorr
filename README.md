@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**umutgungorr/umutgungorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Umut Güngör
 
-Here are some ideas to get you started:
+### Full-Stack Developer · Web Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`TypeScript` · `Next.js` · `React` · `Supabase`
+
+</div>
+
+---
+
+## ⚡ whoami
+
+```text
+$ whoami --full
+
+name      Umut Güngör
+username  umutgungorr
+role      Full-Stack Developer
+focus     Kullanışlı, hızlı ve sade web uygulamaları
+building  ChronoFlow — günlük zaman planlama uygulaması
+```
+
+Karmaşık günlük akışları sade arayüzlere dönüştüren web uygulamaları geliştiriyorum.
+Şu anda zaman bloklama, hedef takibi ve cihazlar arası veri senkronizasyonu üzerine çalışıyorum.
+
+## 🧰 Teknoloji araçlarım
+
+**Frontend**
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+
+**Backend & Veri**
+
+`Supabase` · `PostgreSQL` · `Local-first Data`
+
+**Araçlar & Kalite**
+
+`Git` · `GitHub` · `Vitest` · `ESLint` · `Vercel Analytics`
+
+## 🚀 Seçilmiş proje
+
+### ChronoFlow
+
+Sürükle-bırak zaman bloklama, akıllı tampon süreleri, hedef takibi ve isteğe bağlı Supabase senkronizasyonu sunan Türkçe günlük planlama uygulaması.
+
+`Next.js 16` · `React 19` · `TypeScript` · `Supabase` · `Zustand` · `Vitest`
+
+> Proje geliştirme aşamasında ve repository şu anda özeldir.
+
+## 📫 Bağlantı
+
+[GitHub](https://github.com/umutgungorr)
+
+<div align="center">
+
+<sub>Planla. Odaklan. Tamamla.</sub>
+
+</div>
+
