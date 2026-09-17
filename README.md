@@ -15,6 +15,7 @@
 </a>
 <img src="https://img.shields.io/badge/focus-ChronoFlow-ff3b6b?style=flat-square&labelColor=161b22" alt="Current focus: ChronoFlow" />
 <img src="https://img.shields.io/badge/status-building-3fb950?style=flat-square&labelColor=161b22" alt="Status: building" />
+<img src="https://img.shields.io/github/last-commit/umutgungorr/umutgungorr?label=profile%20updated&style=flat-square&color=a855f7&labelColor=161b22" alt="Profile last updated" />
 
 </div>
 
@@ -60,14 +61,6 @@ Karmaşık günlük akışları sade arayüzlere dönüştüren web uygulamalar�
     </td>
   </tr>
 </table>
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umutgungorr&theme=github_dark" width="100%" alt="Umut Güngör GitHub activity summary" />
-
-</div>
 
 ---
 
