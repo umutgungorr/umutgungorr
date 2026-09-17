@@ -65,7 +65,7 @@ Karmaşık günlük akışları sade arayüzlere dönüştüren web uygulamalar�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umutgungorr&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=FF3B6B&ring_color=58A6FF&include_all_commits=true&rank_icon=github" height="165" alt="Umut Güngör GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umutgungorr&theme=github_dark" width="100%" alt="Umut Güngör GitHub activity summary" />
 
 </div>
 
