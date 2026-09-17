@@ -1,0 +1,36 @@
+<svg width="900" height="270" viewBox="0 0 900 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="898" height="268" rx="16" fill="#080A0E" stroke="#30363D" stroke-width="2"/>
+  <rect x="1" y="1" width="898" height="42" rx="16" fill="#111318"/>
+  <path d="M1 42H899" stroke="#21262D"/>
+  <circle cx="24" cy="22" r="5" fill="#FF5F57"/>
+  <circle cx="43" cy="22" r="5" fill="#FEBC2E"/>
+  <circle cx="62" cy="22" r="5" fill="#28C840"/>
+  <text x="450" y="27" text-anchor="middle" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">umut@github: ~</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">
+    <text x="30" y="78" fill="#484F58">01</text>
+    <text x="76" y="78" fill="#58A6FF">$</text>
+    <text x="96" y="78" fill="#F0F6FC">whoami --full</text>
+
+    <text x="30" y="112" fill="#484F58">02</text>
+    <text x="76" y="112" fill="#8B949E">name</text>
+    <text x="174" y="112" fill="#F0F6FC">Umut Güngör</text>
+
+    <text x="30" y="144" fill="#484F58">03</text>
+    <text x="76" y="144" fill="#8B949E">role</text>
+    <text x="174" y="144" fill="#F0F6FC">Full-Stack Developer</text>
+
+    <text x="30" y="176" fill="#484F58">04</text>
+    <text x="76" y="176" fill="#8B949E">focus</text>
+    <text x="174" y="176" fill="#F0F6FC">Useful · fast · focused web products</text>
+
+    <text x="30" y="208" fill="#484F58">05</text>
+    <text x="76" y="208" fill="#8B949E">building</text>
+    <text x="174" y="208" fill="#58A6FF">ChronoFlow</text>
+    <text x="267" y="208" fill="#8B949E">— daily time-blocking</text>
+
+    <text x="30" y="240" fill="#484F58">06</text>
+    <rect x="76" y="229" width="9" height="16" rx="1" fill="#2F81F7"/>
+  </g>
+</svg>
+
