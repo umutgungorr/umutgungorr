@@ -1,74 +1,73 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Umut Güngör — Full-Stack Developer" />
-
-<br />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Kullan%C4%B1%C5%9Fl%C4%B1+web+uygulamalar%C4%B1+geli%C5%9Ftiriyorum;Building+ChronoFlow" alt="Typing SVG" />
-</a>
-
-<br />
-
-<a href="https://github.com/umutgungorr?tab=followers">
-  <img src="https://img.shields.io/github/followers/umutgungorr?label=followers&style=flat-square&color=2f81f7&labelColor=161b22" alt="GitHub followers" />
-</a>
-<img src="https://img.shields.io/badge/focus-ChronoFlow-ff3b6b?style=flat-square&labelColor=161b22" alt="Current focus: ChronoFlow" />
-<img src="https://img.shields.io/badge/status-building-3fb950?style=flat-square&labelColor=161b22" alt="Status: building" />
-<img src="https://img.shields.io/github/last-commit/umutgungorr/umutgungorr?label=profile%20updated&style=flat-square&color=a855f7&labelColor=161b22" alt="Profile last updated" />
+<img src="./assets/header.svg" width="100%" alt="Umut Güngör — ürün odaklı full-stack developer" />
 
 </div>
 
----
+## `01 / WHO I AM`
 
-## ⚡ whoami
+<img src="./assets/terminal.svg" width="100%" alt="Umut Güngör'ün rolü, geliştirme yaklaşımı ve üzerinde çalıştığı proje" />
 
-<img src="./assets/terminal.svg" width="100%" alt="Umut Güngör whoami terminal" />
-
-Karmaşık günlük akışları sade arayüzlere dönüştüren web uygulamaları geliştiriyorum. Şu anda zaman bloklama, hedef takibi ve cihazlar arası veri senkronizasyonu üzerine çalışıyorum.
-
-## 🧰 Stack
-
-<div align="center">
-
-**Frontend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" alt="Next.js, React, TypeScript and Tailwind CSS" />
-
-**Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=dark" alt="Node.js, Supabase and PostgreSQL" />
-
-**Tools & Quality**
-
-<img src="https://skillicons.dev/icons?i=git,github,vitest,vercel,vscode&theme=dark" alt="Git, GitHub, Vitest, Vercel and VS Code" />
-
-</div>
-
-## 🚀 Selected Project
+Ürün düşüncesiyle çalışan, uçtan uca web uygulamaları geliştiren bir **Full-Stack Developer**'ım. Karmaşık akışları anlaşılır arayüzlere; fikirleri hızlı, güvenilir ve sürdürülebilir ürünlere dönüştürmeye odaklanıyorum.
 
 <table>
   <tr>
-    <td width="72%">
-      <h3>ChronoFlow</h3>
-      <p>Sürükle-bırak zaman bloklama, akıllı tampon süreleri, hedef takibi ve isteğe bağlı Supabase senkronizasyonu sunan Türkçe günlük planlama uygulaması.</p>
-      <code>Next.js 16</code> · <code>React 19</code> · <code>TypeScript</code> · <code>Supabase</code> · <code>Zustand</code> · <code>Vitest</code>
-    </td>
-    <td width="28%" align="center">
-      <strong>PRIVATE BETA</strong><br /><br />
-      <code>ACTIVE</code><br />
-      <sub>work in progress</sub>
-    </td>
+    <td width="33%" align="center"><strong>PRODUCT THINKING</strong><br /><sub>Kullanıcı ihtiyacından çalışan ürüne</sub></td>
+    <td width="33%" align="center"><strong>CLEAR SYSTEMS</strong><br /><sub>Sade akışlar, belirgin sınırlar</sub></td>
+    <td width="33%" align="center"><strong>SHIP QUALITY</strong><br /><sub>Tip güvenliği, test ve iterasyon</sub></td>
   </tr>
 </table>
 
----
+## `02 / STACK`
 
 <div align="center">
 
-<a href="https://github.com/umutgungorr">GitHub</a>
+<sub>INTERFACE</sub><br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" alt="Next.js, React, TypeScript ve Tailwind CSS" />
+</picture>
 
-<sub>Planla. Odaklan. Tamamla.</sub>
+<br />
+
+<sub>DATA &amp; RUNTIME</sub><br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=dark" alt="Node.js, Supabase ve PostgreSQL" />
+</picture>
+
+<br />
+
+<sub>DELIVERY &amp; QUALITY</sub><br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vitest,vercel,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vitest,vercel,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vitest,vercel,vscode&theme=dark" alt="Git, GitHub, Vitest, Vercel ve Visual Studio Code" />
+</picture>
+
+</div>
+
+## `03 / CURRENTLY SHIPPING`
+
+<img src="./assets/chronoflow.svg" width="100%" alt="ChronoFlow — yerel öncelikli günlük zaman bloklama uygulaması" />
+
+<table>
+  <tr>
+    <td width="33%"><strong>LOCAL-FIRST CORE</strong><br /><sub>Hesap veya bulut bağlantısı olmadan da çalışan planlama deneyimi.</sub></td>
+    <td width="33%"><strong>OPTIONAL SYNC</strong><br /><sub>Supabase ile isteğe bağlı cihazlar arası veri eşitleme.</sub></td>
+    <td width="33%"><strong>TESTED DOMAIN</strong><br /><sub>Planlama mantığı ve kritik akışlar Vitest ile doğrulanıyor.</sub></td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/last-commit/umutgungorr/umutgungorr?label=PROFILE%20SIGNAL&style=flat-square&color=2f81f7&labelColor=161b22" alt="Profilin son güncellenme zamanı" />
+
+<br /><br />
+
+<sub>PLANLA · ODAKLAN · TAMAMLA</sub>
 
 </div>
 
