@@ -1,36 +1,24 @@
-<svg width="900" height="270" viewBox="0 0 900 270" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="898" height="268" rx="16" fill="#080A0E" stroke="#30363D" stroke-width="2"/>
-  <rect x="1" y="1" width="898" height="42" rx="16" fill="#111318"/>
-  <path d="M1 42H899" stroke="#21262D"/>
-  <circle cx="24" cy="22" r="5" fill="#FF5F57"/>
-  <circle cx="43" cy="22" r="5" fill="#FEBC2E"/>
-  <circle cx="62" cy="22" r="5" fill="#28C840"/>
-  <text x="450" y="27" text-anchor="middle" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">umut@github: ~</text>
+<svg width="900" height="235" viewBox="0 0 900 235" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Umut Güngör — whoami</title>
+  <desc>Umut Güngör'ün rolünü, ürün odağını ve güncel projesini gösteren tema uyumlu terminal kartı.</desc>
+  <style>
+    :root { --bg:#F6F8FA; --bar:#EAEEF2; --line:#D0D7DE; --fg:#1F2328; --muted:#59636E; --soft:#818B98; }
+    @media (prefers-color-scheme: dark) { :root { --bg:#080A0E; --bar:#111318; --line:#30363D; --fg:#F0F6FC; --muted:#B1BAC4; --soft:#8B949E; } }
+    @media (prefers-reduced-motion: reduce) { .motion { display:none; } }
+  </style>
+  <rect x="1" y="1" width="898" height="233" rx="16" fill="var(--bg)" stroke="var(--line)" stroke-width="2"/>
+  <path d="M1 43H899" stroke="var(--line)"/>
+  <path d="M17 1H883A16 16 0 0 1 899 17V42H1V17A16 16 0 0 1 17 1Z" fill="var(--bar)"/>
+  <circle cx="24" cy="22" r="5" fill="#FF5F57"/><circle cx="43" cy="22" r="5" fill="#FEBC2E"/><circle cx="62" cy="22" r="5" fill="#28C840"/>
+  <text x="450" y="27" text-anchor="middle" fill="var(--soft)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">identity.log</text>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">
-    <text x="30" y="78" fill="#484F58">01</text>
-    <text x="76" y="78" fill="#58A6FF">$</text>
-    <text x="96" y="78" fill="#F0F6FC">whoami --full</text>
-
-    <text x="30" y="112" fill="#484F58">02</text>
-    <text x="76" y="112" fill="#8B949E">name</text>
-    <text x="174" y="112" fill="#F0F6FC">Umut Güngör</text>
-
-    <text x="30" y="144" fill="#484F58">03</text>
-    <text x="76" y="144" fill="#8B949E">role</text>
-    <text x="174" y="144" fill="#F0F6FC">Full-Stack Developer</text>
-
-    <text x="30" y="176" fill="#484F58">04</text>
-    <text x="76" y="176" fill="#8B949E">focus</text>
-    <text x="174" y="176" fill="#F0F6FC">Useful · fast · focused web products</text>
-
-    <text x="30" y="208" fill="#484F58">05</text>
-    <text x="76" y="208" fill="#8B949E">building</text>
-    <text x="174" y="208" fill="#58A6FF">ChronoFlow</text>
-    <text x="267" y="208" fill="#8B949E">— daily time-blocking</text>
-
-    <text x="30" y="240" fill="#484F58">06</text>
-    <rect x="76" y="229" width="9" height="16" rx="1" fill="#2F81F7"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+    <text x="30" y="79" fill="var(--soft)">01</text><text x="76" y="79" fill="#2F81F7">$</text><text x="96" y="79" fill="var(--fg)">whoami --signal</text>
+    <text x="30" y="115" fill="var(--soft)">02</text><text x="76" y="115" fill="var(--muted)">role</text><text x="184" y="115" fill="var(--fg)">Product-minded Full-Stack Developer</text>
+    <text x="30" y="151" fill="var(--soft)">03</text><text x="76" y="151" fill="var(--muted)">craft</text><text x="184" y="151" fill="var(--fg)">Clear flows · typed systems · tested logic</text>
+    <text x="30" y="187" fill="var(--soft)">04</text><text x="76" y="187" fill="var(--muted)">shipping</text><text x="184" y="187" fill="#FF3B6B">ChronoFlow</text><text x="292" y="187" fill="var(--soft)">/ daily time-blocking</text>
+    <text x="30" y="218" fill="var(--soft)">05</text>
+    <rect class="motion" x="76" y="204" width="9" height="17" rx="1" fill="#2F81F7"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.45;.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
   </g>
 </svg>
 
