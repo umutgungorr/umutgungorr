@@ -2,8 +2,6 @@
   <title>Umut Güngör — Product-minded Full-Stack Developer</title>
   <desc>Umut Güngör için ChronoFlow odağını gösteren hareketli, tema uyumlu geliştirici profil başlığı.</desc>
   <style>
-    :root { --bg:#F6F8FA; --panel:#FFFFFF; --line:#D0D7DE; --grid:#D8DEE4; --fg:#1F2328; --muted:#59636E; --soft:#818B98; }
-    @media (prefers-color-scheme: dark) { :root { --bg:#080A0E; --panel:#0D1117; --line:#30363D; --grid:#21262D; --fg:#F0F6FC; --muted:#B1BAC4; --soft:#8B949E; } }
     @media (prefers-reduced-motion: reduce) { .motion { display:none; } }
   </style>
   <defs>
@@ -14,41 +12,41 @@
       <stop stop-color="#2F81F7" stop-opacity=".18"/><stop offset="1" stop-color="#2F81F7" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" stroke="var(--grid)" stroke-width="1" opacity=".42"/>
+      <path d="M24 0H0V24" stroke="#21262D" stroke-width="1" opacity=".42"/>
     </pattern>
   </defs>
 
-  <rect x="1" y="1" width="898" height="258" rx="18" fill="var(--bg)" stroke="var(--line)" stroke-width="2"/>
+  <rect x="1" y="1" width="898" height="258" rx="18" fill="#080A0E" stroke="#30363D" stroke-width="2"/>
   <rect x="1" y="1" width="898" height="258" rx="18" fill="url(#grid)" opacity=".48"/>
   <rect x="1" y="1" width="898" height="258" rx="18" fill="url(#glow)"/>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
     <rect x="46" y="29" width="8" height="8" rx="2" fill="#FF3B6B"/>
-    <text x="66" y="38" fill="var(--soft)" font-size="11" letter-spacing="2.6">UG / PRODUCT ENGINEERING</text>
-    <text x="854" y="38" text-anchor="end" fill="var(--soft)" font-size="11" letter-spacing="2">@UMUTGUNGORR</text>
+    <text x="66" y="38" fill="#8B949E" font-size="11" letter-spacing="2.6">UG / PRODUCT ENGINEERING</text>
+    <text x="854" y="38" text-anchor="end" fill="#8B949E" font-size="11" letter-spacing="2">@UMUTGUNGORR</text>
   </g>
 
   <g>
-    <text x="46" y="123" fill="var(--fg)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.8">Umut Güngör</text>
+    <text x="46" y="123" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.8">Umut Güngör</text>
     <rect x="46" y="141" width="348" height="4" rx="2" fill="url(#accent)"/>
-    <text x="46" y="178" fill="var(--muted)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="1.1">PRODUCT-MINDED FULL-STACK DEVELOPER</text>
-    <text x="46" y="207" fill="var(--soft)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing=".5">CLEAR INTERFACES · RESILIENT SYSTEMS · USEFUL SOFTWARE</text>
+    <text x="46" y="178" fill="#B1BAC4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="1.1">PRODUCT-MINDED FULL-STACK DEVELOPER</text>
+    <text x="46" y="207" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing=".5">CLEAR INTERFACES · RESILIENT SYSTEMS · USEFUL SOFTWARE</text>
   </g>
 
   <g transform="translate(648 67)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <rect width="206" height="132" rx="14" fill="var(--panel)" stroke="var(--line)"/>
-    <path d="M0 42H206M0 88H206" stroke="var(--line)"/>
+    <rect width="206" height="132" rx="14" fill="#0D1117" stroke="#30363D"/>
+    <path d="M0 42H206M0 88H206" stroke="#30363D"/>
     <circle cx="18" cy="21" r="4" fill="#3FB950"><animate class="motion" attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/></circle>
-    <text x="32" y="25" fill="var(--soft)" font-size="10" letter-spacing="1.5">SYSTEM / ONLINE</text>
-    <text x="16" y="62" fill="var(--soft)" font-size="9" letter-spacing="1.3">CURRENT FOCUS</text>
+    <text x="32" y="25" fill="#8B949E" font-size="10" letter-spacing="1.5">SYSTEM / ONLINE</text>
+    <text x="16" y="62" fill="#8B949E" font-size="9" letter-spacing="1.3">CURRENT FOCUS</text>
     <text x="16" y="80" fill="#2F81F7" font-size="13" font-weight="700">CHRONOFLOW</text>
-    <text x="16" y="108" fill="var(--soft)" font-size="9" letter-spacing="1.3">SHIP MODE</text>
-    <text x="16" y="124" fill="var(--fg)" font-size="11">BUILD · TEST · REFINE</text>
+    <text x="16" y="108" fill="#8B949E" font-size="9" letter-spacing="1.3">SHIP MODE</text>
+    <text x="16" y="124" fill="#F0F6FC" font-size="11">BUILD · TEST · REFINE</text>
   </g>
 
   <g transform="translate(46 234)">
-    <path d="M0 0H808" stroke="var(--line)"/>
-    <g stroke="var(--soft)" opacity=".55"><path d="M0 -4V4"/><path d="M202 -4V4"/><path d="M404 -4V4"/><path d="M606 -4V4"/><path d="M808 -4V4"/></g>
+    <path d="M0 0H808" stroke="#30363D"/>
+    <g stroke="#8B949E" opacity=".55"><path d="M0 -4V4"/><path d="M202 -4V4"/><path d="M404 -4V4"/><path d="M606 -4V4"/><path d="M808 -4V4"/></g>
     <rect class="motion" x="0" y="-2" width="118" height="4" rx="2" fill="url(#accent)"><animate attributeName="x" values="0;690;0" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.95;0" dur="9s" repeatCount="indefinite"/></rect>
   </g>
 </svg>
