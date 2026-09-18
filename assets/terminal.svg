@@ -2,22 +2,20 @@
   <title>Umut Güngör — whoami</title>
   <desc>Umut Güngör'ün rolünü, ürün odağını ve güncel projesini gösteren tema uyumlu terminal kartı.</desc>
   <style>
-    :root { --bg:#F6F8FA; --bar:#EAEEF2; --line:#D0D7DE; --fg:#1F2328; --muted:#59636E; --soft:#818B98; }
-    @media (prefers-color-scheme: dark) { :root { --bg:#080A0E; --bar:#111318; --line:#30363D; --fg:#F0F6FC; --muted:#B1BAC4; --soft:#8B949E; } }
     @media (prefers-reduced-motion: reduce) { .motion { display:none; } }
   </style>
-  <rect x="1" y="1" width="898" height="233" rx="16" fill="var(--bg)" stroke="var(--line)" stroke-width="2"/>
-  <path d="M1 43H899" stroke="var(--line)"/>
-  <path d="M17 1H883A16 16 0 0 1 899 17V42H1V17A16 16 0 0 1 17 1Z" fill="var(--bar)"/>
+  <rect x="1" y="1" width="898" height="233" rx="16" fill="#080A0E" stroke="#30363D" stroke-width="2"/>
+  <path d="M1 43H899" stroke="#30363D"/>
+  <path d="M17 1H883A16 16 0 0 1 899 17V42H1V17A16 16 0 0 1 17 1Z" fill="#111318"/>
   <circle cx="24" cy="22" r="5" fill="#FF5F57"/><circle cx="43" cy="22" r="5" fill="#FEBC2E"/><circle cx="62" cy="22" r="5" fill="#28C840"/>
-  <text x="450" y="27" text-anchor="middle" fill="var(--soft)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">identity.log</text>
+  <text x="450" y="27" text-anchor="middle" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">identity.log</text>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
-    <text x="30" y="79" fill="var(--soft)">01</text><text x="76" y="79" fill="#2F81F7">$</text><text x="96" y="79" fill="var(--fg)">whoami --signal</text>
-    <text x="30" y="115" fill="var(--soft)">02</text><text x="76" y="115" fill="var(--muted)">role</text><text x="184" y="115" fill="var(--fg)">Product-minded Full-Stack Developer</text>
-    <text x="30" y="151" fill="var(--soft)">03</text><text x="76" y="151" fill="var(--muted)">craft</text><text x="184" y="151" fill="var(--fg)">Clear flows · typed systems · tested logic</text>
-    <text x="30" y="187" fill="var(--soft)">04</text><text x="76" y="187" fill="var(--muted)">shipping</text><text x="184" y="187" fill="#FF3B6B">ChronoFlow</text><text x="292" y="187" fill="var(--soft)">/ daily time-blocking</text>
-    <text x="30" y="218" fill="var(--soft)">05</text>
+    <text x="30" y="79" fill="#8B949E">01</text><text x="76" y="79" fill="#2F81F7">$</text><text x="96" y="79" fill="#F0F6FC">whoami --signal</text>
+    <text x="30" y="115" fill="#8B949E">02</text><text x="76" y="115" fill="#B1BAC4">role</text><text x="184" y="115" fill="#F0F6FC">Product-minded Full-Stack Developer</text>
+    <text x="30" y="151" fill="#8B949E">03</text><text x="76" y="151" fill="#B1BAC4">craft</text><text x="184" y="151" fill="#F0F6FC">Clear flows · typed systems · tested logic</text>
+    <text x="30" y="187" fill="#8B949E">04</text><text x="76" y="187" fill="#B1BAC4">shipping</text><text x="184" y="187" fill="#FF3B6B">ChronoFlow</text><text x="292" y="187" fill="#8B949E">/ daily time-blocking</text>
+    <text x="30" y="218" fill="#8B949E">05</text>
     <rect class="motion" x="76" y="204" width="9" height="17" rx="1" fill="#2F81F7"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.45;.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
   </g>
 </svg>
