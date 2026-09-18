@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Umut Güngör — ürün odaklı full-stack developer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header.svg" width="100%" alt="Umut Güngör — ürün odaklı full-stack developer" />
+</picture>
 
 </div>
 
 ## `01 / WHO I AM`
 
-<img src="./assets/terminal.svg" width="100%" alt="Umut Güngör'ün rolü, geliştirme yaklaşımı ve üzerinde çalıştığı proje" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
+  <img src="./assets/terminal.svg" width="100%" alt="Umut Güngör'ün rolü, geliştirme yaklaşımı ve üzerinde çalıştığı proje" />
+</picture>
 
 Ürün düşüncesiyle çalışan, uçtan uca web uygulamaları geliştiren bir **Full-Stack Developer**'ım. Karmaşık akışları anlaşılır arayüzlere; fikirleri hızlı, güvenilir ve sürdürülebilir ürünlere dönüştürmeye odaklanıyorum.
 
@@ -51,7 +59,11 @@
 
 ## `03 / CURRENTLY SHIPPING`
 
-<img src="./assets/chronoflow.svg" width="100%" alt="ChronoFlow — yerel öncelikli günlük zaman bloklama uygulaması" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/chronoflow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/chronoflow-light.svg" />
+  <img src="./assets/chronoflow.svg" width="100%" alt="ChronoFlow — yerel öncelikli günlük zaman bloklama uygulaması" />
+</picture>
 
 <table>
   <tr>
