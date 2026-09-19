@@ -35,6 +35,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=light" />
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" alt="Next.js, React, TypeScript ve Tailwind CSS" />
+  <div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,supabase,git,github,vscode,py,docker" />
+</div>
 </picture>
 
 <br />
