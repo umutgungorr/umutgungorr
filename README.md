@@ -83,3 +83,15 @@
 
 </div>
 
+## `04 / CONNECT`
+
+<div align="center">
+
+**Bir fikri özenli ve çalışan bir ürüne dönüştürelim.**
+
+[![Email](https://img.shields.io/badge/EMAIL-umutm7944%40gmail.com-2f81f7?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22)](mailto:umutm7944@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-in%2Fumut--gungor-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/umut-gungor/)
+
+<sub>Odaklı iş birliklerine, düşünülmüş ürünlere ve iddialı fikirlere açığım.</sub>
+
+</div>
