@@ -32,6 +32,10 @@
   <p><strong>INTERFACE</strong></p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
 
+  <div align="center">
+  <p><strong>INTERFACE</strong></p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+
   <br/><br/>
   <p><strong>DATA & BACKEND</strong></p>
   <img src="https://skillicons.dev/icons?i=nodejs,py,postgres,supabase" />
@@ -40,21 +44,6 @@
   <p><strong>DEVOPS, TOOLS & QUALITY</strong></p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vite,vercel,vscode" />
 </div>
-
-<sub>DATA &amp; RUNTIME</sub><br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=light" />
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=dark" alt="Node.js, Supabase ve PostgreSQL" />
-</picture>
-
-<br />
-
-<sub>DELIVERY &amp; QUALITY</sub><br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vitest,vercel,vscode&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vitest,vercel,vscode&theme=light" />
-  <img src="https://skillicons.dev/icons?i=git,github,vitest,vercel,vscode&theme=dark" alt="Git, GitHub, Vitest, Vercel ve Visual Studio Code" />
 </picture>
 
 </div>
