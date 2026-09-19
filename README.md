@@ -29,22 +29,17 @@
 ## `02 / STACK`
 
 <div align="center">
-  <p><strong>INTERFACE</strong></p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
-
-  <div align="center">
-  <p><strong>INTERFACE</strong></p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+  <p><strong>Frontend & Frameworks</strong></p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,astro,tailwind,electron" />
 
   <br/><br/>
-  <p><strong>DATA & BACKEND</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,py,postgres,supabase" />
+  <p><strong>Backend & Data</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,py,php,postgres,mysql,redis,prisma,supabase" />
 
   <br/><br/>
-  <p><strong>DEVOPS, TOOLS & QUALITY</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vite,vercel,vscode" />
+  <p><strong>DevOps & System</strong></p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode" />
 </div>
-</picture>
 
 </div>
 
