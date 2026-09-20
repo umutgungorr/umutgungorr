@@ -41,8 +41,6 @@
   <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode" />
 </div>
 
-</div>
-
 ## `03 / CURRENTLY SHIPPING`
 
 <picture>
@@ -66,6 +64,35 @@
 <br /><br />
 
 <sub>PLANLA · ODAKLAN · TAMAMLA</sub>
+
+</div>
+
+<br />
+
+<a href="https://github.com/umutgungorr/cvera">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cvera.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cvera-light.svg" />
+  <img src="./assets/cvera.svg" width="100%" alt="CVera — gizlilik odaklı ve açıklanabilir CV ile iş ilanı eşleştirme uygulaması" />
+</picture>
+</a>
+
+<table>
+  <tr>
+    <td width="33%"><strong>PRIVATE BY DESIGN</strong><br /><sub>Belgeler istek belleğinde işlenir; kalıcı depolamaya veya üçüncü taraf analiz servisine gönderilmez.</sub></td>
+    <td width="33%"><strong>EXPLAINABLE MATCH</strong><br /><sub>Eşleşen ve eksik teknik beceriler deterministik kurallarla görünür hâle gelir.</sub></td>
+    <td width="33%"><strong>DEFENSIVE INPUTS</strong><br /><sub>Dosya imzası, boyut, okunabilir içerik ve ilan kalitesi analizden önce doğrulanır.</sub></td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![Source](https://img.shields.io/badge/SOURCE-cvera-2f81f7?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/umutgungorr/cvera)
+[![CI](https://img.shields.io/github/actions/workflow/status/umutgungorr/cvera/ci.yml?branch=main&label=CI&style=flat-square&labelColor=161b22)](https://github.com/umutgungorr/cvera/actions/workflows/ci.yml)
+
+<br /><br />
+
+<sub>YÜKLE · KARŞILAŞTIR · İYİLEŞTİR</sub>
 
 </div>
 
