@@ -57,17 +57,10 @@
   </tr>
 </table>
 
-<div align="center">
-
-<img src="https://img.shields.io/github/last-commit/umutgungorr/umutgungorr?label=PROFILE%20SIGNAL&style=flat-square&color=2f81f7&labelColor=161b22" alt="Profilin son güncellenme zamanı" />
-
-<br /><br />
-
-<sub>PLANLA · ODAKLAN · TAMAMLA</sub>
-
-</div>
-
-<br />
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/umutgungorr/umutgungorr?label=PROFILE%20SIGNAL&style=flat-square&color=2f81f7&labelColor=161b22" alt="Profilin son güncellenme zamanı" /><br />
+  <sub>PLANLA · ODAKLAN · TAMAMLA</sub>
+</p>
 
 <a href="https://github.com/umutgungorr/cvera">
 <picture>
@@ -85,16 +78,11 @@
   </tr>
 </table>
 
-<div align="center">
-
-[![Source](https://img.shields.io/badge/SOURCE-cvera-2f81f7?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/umutgungorr/cvera)
-[![CI](https://img.shields.io/github/actions/workflow/status/umutgungorr/cvera/ci.yml?branch=main&label=CI&style=flat-square&labelColor=161b22)](https://github.com/umutgungorr/cvera/actions/workflows/ci.yml)
-
-<br /><br />
-
-<sub>YÜKLE · KARŞILAŞTIR · İYİLEŞTİR</sub>
-
-</div>
+<p align="center">
+  <a href="https://github.com/umutgungorr/cvera"><img src="https://img.shields.io/badge/SOURCE-cvera-2f81f7?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="CVera kaynak kodu" /></a>
+  <a href="https://github.com/umutgungorr/cvera/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/umutgungorr/cvera/ci.yml?branch=main&label=CI&style=flat-square&labelColor=161b22" alt="CVera CI durumu" /></a><br />
+  <sub>YÜKLE · KARŞILAŞTIR · İYİLEŞTİR</sub>
+</p>
 
 ## `04 / CONNECT`
 
