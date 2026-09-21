@@ -43,11 +43,13 @@
 
 ## `03 / CURRENTLY SHIPPING`
 
+<a href="https://github.com/umutgungorr/chronoflow">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/chronoflow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/chronoflow-light.svg" />
   <img src="./assets/chronoflow.svg" width="100%" alt="ChronoFlow — yerel öncelikli günlük zaman bloklama uygulaması" />
 </picture>
+</a>
 
 <table>
   <tr>
