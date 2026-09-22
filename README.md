@@ -88,27 +88,30 @@
 
 ## `04 / OPEN-SOURCE DEVELOPER TOOLING`
 
-Sıfır bağımlılıklı (zero-dependency), hızlı ve güvenilir açık kaynak CLI geliştirici araçları serisi:
+Sıfır bağımlılıklı (zero-dependency), yüksek performanslı açık kaynak CLI geliştirici araçları üçlemesi (Enterprise Edition `v0.2.0`):
 
 <table>
   <tr>
     <td width="33%" align="center">
       🛡️ <strong><a href="https://github.com/umutgungorr/tokenguard">TokenGuard</a></strong><br />
-      <sub>Git pre-commit gizli anahtar ve token tarayıcısı.</sub><br /><br />
-      <a href="https://github.com/umutgungorr/tokenguard"><img src="https://img.shields.io/badge/Python-3.12+-blue.svg?style=flat-square" alt="Python 3.12+" /></a>
-      <a href="https://github.com/umutgungorr/tokenguard"><img src="https://img.shields.io/badge/Zero-Dependencies-success.svg?style=flat-square" alt="Zero Dependencies" /></a>
+      <sub>Git pre-commit secret tarayıcısı ve SARIF güvenlik raporlayıcı.</sub><br /><br />
+      <a href="https://github.com/umutgungorr/tokenguard/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-blue.svg?style=flat-square" alt="v0.2.0" /></a>
+      <a href="https://github.com/umutgungorr/tokenguard"><img src="https://img.shields.io/badge/SARIF-v2.1.0-orange.svg?style=flat-square" alt="SARIF v2.1.0" /></a>
+      <a href="https://github.com/umutgungorr/tokenguard"><img src="https://img.shields.io/badge/Baseline-Support-success.svg?style=flat-square" alt="Baseline Support" /></a>
     </td>
     <td width="33%" align="center">
       🩺 <strong><a href="https://github.com/umutgungorr/envdoctor">EnvDoctor</a></strong><br />
-      <sub>.env ve .env.example denetleyici, eşitleyici ve kod tarayıcı.</sub><br /><br />
-      <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Python-3.12+-blue.svg?style=flat-square" alt="Python 3.12+" /></a>
-      <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Zero-Dependencies-success.svg?style=flat-square" alt="Zero Dependencies" /></a>
+      <sub>.env sözleşme denetleyici, çok satırlı ayrıştırıcı ve AST kod tarayıcı.</sub><br /><br />
+      <a href="https://github.com/umutgungorr/envdoctor/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-blue.svg?style=flat-square" alt="v0.2.0" /></a>
+      <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Format-JSON%20CI-brightgreen.svg?style=flat-square" alt="JSON CI" /></a>
+      <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Parser-Multiline-success.svg?style=flat-square" alt="Multiline Parser" /></a>
     </td>
     <td width="33%" align="center">
       🔗 <strong><a href="https://github.com/umutgungorr/deadlinkfinder">DeadLinkFinder</a></strong><br />
       <sub>Markdown yerel bağlantı, görsel ve başlık çapa doğrulayıcı.</sub><br /><br />
-      <a href="https://github.com/umutgungorr/deadlinkfinder"><img src="https://img.shields.io/badge/Python-3.12+-blue.svg?style=flat-square" alt="Python 3.12+" /></a>
-      <a href="https://github.com/umutgungorr/deadlinkfinder"><img src="https://img.shields.io/badge/Zero-Dependencies-success.svg?style=flat-square" alt="Zero Dependencies" /></a>
+      <a href="https://github.com/umutgungorr/deadlinkfinder/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-blue.svg?style=flat-square" alt="v0.2.0" /></a>
+      <a href="https://github.com/umutgungorr/deadlinkfinder"><img src="https://img.shields.io/badge/SARIF-v2.1.0-orange.svg?style=flat-square" alt="SARIF v2.1.0" /></a>
+      <a href="https://github.com/umutgungorr/deadlinkfinder"><img src="https://img.shields.io/badge/Mode-Offline%20First-success.svg?style=flat-square" alt="Offline First" /></a>
     </td>
   </tr>
 </table>
