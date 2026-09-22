@@ -37,52 +37,7 @@
   <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode" />
 </div>
 
-## `03 / CURRENTLY SHIPPING`
-
-<a href="https://github.com/umutgungorr/chronoflow">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/chronoflow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/chronoflow-light.svg" />
-  <img src="./assets/chronoflow.svg" width="100%" alt="ChronoFlow — local-first daily time-blocking application" />
-</picture>
-</a>
-
-<table>
-  <tr>
-    <td width="33%"><strong>LOCAL-FIRST CORE</strong><br /><sub>Zero-login, offline-first daily scheduling experience.</sub></td>
-    <td width="33%"><strong>OPTIONAL SYNC</strong><br /><sub>Optional cross-device sync powered by Supabase.</sub></td>
-    <td width="33%"><strong>TESTED DOMAIN</strong><br /><sub>Core planning logic and critical state machines verified with Vitest.</sub></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/umutgungorr/umutgungorr?label=PROFILE%20SIGNAL&style=flat-square&color=2f81f7&labelColor=161b22" alt="Profile last update signal" /><br />
-  <sub>PLAN · FOCUS · COMPLETE</sub>
-</p>
-
-<a href="https://github.com/umutgungorr/cvera">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cvera.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/cvera-light.svg" />
-  <img src="./assets/cvera.svg" width="100%" alt="CVera — privacy-first explainable resume-to-job matcher" />
-</picture>
-</a>
-
-<table>
-  <tr>
-    <td width="33%"><strong>PRIVATE BY DESIGN</strong><br /><sub>Documents processed strictly in-memory; zero persistent storage or third-party tracking.</sub></td>
-    <td width="33%"><strong>EXPLAINABLE MATCH</strong><br /><sub>Matched and missing technical requirements surfaced transparently with deterministic rules.</sub></td>
-    <td width="33%"><strong>DEFENSIVE INPUTS</strong><br /><sub>File signatures, MIME types, text extraction, and posting quality pre-validated.</sub></td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/umutgungorr/cvera"><img src="https://img.shields.io/badge/SOURCE-cvera-2f81f7?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="CVera source code" /></a>
-  <a href="https://github.com/umutgungorr/cvera/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/umutgungorr/cvera/ci.yml?branch=main&label=CI&style=flat-square&labelColor=161b22" alt="CVera CI status" /></a><br />
-  <sub>UPLOAD · MATCH · REFINE</sub>
-</p>
-
-## `04 / OPEN-SOURCE DEVELOPER TOOLING`
+## `03 / OPEN-SOURCE DEVELOPER TOOLING`
 
 <a href="https://github.com/marketplace?type=actions&query=umutgungorr">
 <picture>
@@ -132,6 +87,51 @@ A zero-runtime-dependency developer tooling suite published on GitHub Marketplac
 - uses: umutgungorr/envdoctor@v0.2.0      # Environment Contract Integrity & JSON
 - uses: umutgungorr/deadlinkfinder@v0.2.1  # Documentation Anchor & Asset Verification
 ```
+
+## `04 / FULL-STACK WEB PRODUCTS`
+
+<a href="https://github.com/umutgungorr/chronoflow">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/chronoflow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/chronoflow-light.svg" />
+  <img src="./assets/chronoflow.svg" width="100%" alt="ChronoFlow — local-first daily time-blocking application" />
+</picture>
+</a>
+
+<table>
+  <tr>
+    <td width="33%"><strong>LOCAL-FIRST CORE</strong><br /><sub>Zero-login, offline-first daily scheduling experience.</sub></td>
+    <td width="33%"><strong>OPTIONAL SYNC</strong><br /><sub>Optional cross-device sync powered by Supabase.</sub></td>
+    <td width="33%"><strong>TESTED DOMAIN</strong><br /><sub>Core planning logic and critical state machines verified with Vitest.</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/umutgungorr/umutgungorr?label=PROFILE%20SIGNAL&style=flat-square&color=2f81f7&labelColor=161b22" alt="Profile last update signal" /><br />
+  <sub>PLAN · FOCUS · COMPLETE</sub>
+</p>
+
+<a href="https://github.com/umutgungorr/cvera">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cvera.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cvera-light.svg" />
+  <img src="./assets/cvera.svg" width="100%" alt="CVera — privacy-first explainable resume-to-job matcher" />
+</picture>
+</a>
+
+<table>
+  <tr>
+    <td width="33%"><strong>PRIVATE BY DESIGN</strong><br /><sub>Documents processed strictly in-memory; zero persistent storage or third-party tracking.</sub></td>
+    <td width="33%"><strong>EXPLAINABLE MATCH</strong><br /><sub>Matched and missing technical requirements surfaced transparently with deterministic rules.</sub></td>
+    <td width="33%"><strong>DEFENSIVE INPUTS</strong><br /><sub>File signatures, MIME types, text extraction, and posting quality pre-validated.</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/umutgungorr/cvera"><img src="https://img.shields.io/badge/SOURCE-cvera-2f81f7?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="CVera source code" /></a>
+  <a href="https://github.com/umutgungorr/cvera/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/umutgungorr/cvera/ci.yml?branch=main&label=CI&style=flat-square&labelColor=161b22" alt="CVera CI status" /></a><br />
+  <sub>UPLOAD · MATCH · REFINE</sub>
+</p>
 
 ## `05 / CONNECT`
 
