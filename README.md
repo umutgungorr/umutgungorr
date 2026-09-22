@@ -84,6 +84,14 @@
 
 ## `04 / OPEN-SOURCE DEVELOPER TOOLING`
 
+<a href="https://github.com/marketplace?type=actions&query=umutgungorr">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/toolkit-light.svg" />
+  <img src="./assets/toolkit.svg" width="100%" alt="Developer Quality Toolkit — zero-dependency security, configuration and documentation suite" />
+</picture>
+</a>
+
 A zero-runtime-dependency developer tooling suite published on GitHub Marketplace with native SARIF v2.1.0 security integration:
 
 <table>

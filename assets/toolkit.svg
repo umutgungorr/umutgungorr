@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Developer Quality Toolkit</title>
+  <desc id="desc">Zero-runtime-dependency security, configuration and documentation integrity suite on GitHub Marketplace.</desc>
+  <defs>
+    <linearGradient id="suite-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="0.5" stop-color="#2ea44f"/>
+      <stop offset="1" stop-color="#8957e5"/>
+    </linearGradient>
+    <linearGradient id="term-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <style>
+      @media (prefers-reduced-motion: reduce) { .motion { display:none; } }
+      .sans{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+      .mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+      .muted{fill:#8b949e}.soft{fill:#c9d1d9}.white{fill:#f0f6fc}
+    </style>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="1200" height="460" rx="24" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="458" rx="23" fill="none" stroke="#30363d" stroke-width="2"/>
+  <path d="M640 30V430" stroke="#21262d"/>
+
+  <!-- Left Side: Identity & Description -->
+  <g transform="translate(60 0)">
+    <circle cx="0" cy="59" r="5" fill="#3fb950">
+      <animate class="motion" attributeName="opacity" values="0.35;1;0.35" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="16" y="63" class="mono muted" font-size="13" letter-spacing="2">GITHUB MARKETPLACE · 3 OFFICIAL ACTIONS</text>
+
+    <text x="0" y="148" class="sans white" font-size="54" font-weight="760" letter-spacing="-1.5">DevQuality Toolkit</text>
+    <rect x="0" y="166" width="360" height="4" rx="2" fill="url(#suite-accent)"/>
+
+    <text x="0" y="213" class="mono soft" font-size="17">Zero-runtime-dependency CI/CD tooling.</text>
+    <text x="0" y="240" class="mono soft" font-size="17">Pre-commit security &amp; integrity gates.</text>
+    <text x="0" y="278" class="mono muted" font-size="13" letter-spacing="1">TOKENGUARD · ENVDOCTOR · DEADLINKFINDER</text>
+
+    <!-- Tech Badges -->
+    <g class="mono" font-size="12" font-weight="700">
+      <rect x="0" y="310" width="118" height="34" rx="8" fill="#161b22" stroke="#30363d"/>
+      <text x="14" y="331" fill="#58a6ff">PYTHON 3.12+</text>
+
+      <rect x="128" y="310" width="112" height="34" rx="8" fill="#161b22" stroke="#30363d"/>
+      <text x="142" y="331" fill="#7ee787">ZERO-DEP</text>
+
+      <rect x="250" y="310" width="110" height="34" rx="8" fill="#161b22" stroke="#30363d"/>
+      <text x="264" y="331" fill="#d2a8ff">SARIF v2.1</text>
+
+      <rect x="370" y="310" width="104" height="34" rx="8" fill="#161b22" stroke="#30363d"/>
+      <text x="385" y="331" fill="#58a6ff">COMPOSITE</text>
+    </g>
+
+    <text x="0" y="397" class="mono muted" font-size="12" letter-spacing="1.2">PRE-COMMIT  /  AST AUDIT  /  ANCHOR ENGINE  /  SARIF</text>
+    <text x="0" y="425" class="mono" fill="#58a6ff" font-size="13" font-weight="700">SCAN SECRETS · AUDIT ENVS · VERIFY DOCS</text>
+  </g>
+
+  <!-- Right Side: Animated CI Terminal Simulation -->
+  <g transform="translate(680 44)">
+    <text x="0" y="0" class="mono muted" font-size="12" letter-spacing="2">CI/CD WORKFLOW RUNNER / LIVE</text>
+    
+    <!-- Terminal Window -->
+    <g transform="translate(0 26)">
+      <rect width="470" height="340" rx="14" fill="url(#term-bg)" stroke="#30363d"/>
+      <path d="M0 38H470" stroke="#30363d"/>
+      
+      <!-- Terminal dots -->
+      <circle cx="20" cy="19" r="5" fill="#ff5f56"/>
+      <circle cx="36" cy="19" r="5" fill="#ffbd2e"/>
+      <circle cx="52" cy="19" r="5" fill="#27c93f"/>
+      <text x="235" y="23" text-anchor="middle" class="mono muted" font-size="11">github-actions / quality-gate.yml</text>
+
+      <!-- Terminal content -->
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">
+        <text x="22" y="68" fill="#58a6ff">$</text>
+        <text x="38" y="68" class="white">devquality --verify-all --format sarif</text>
+
+        <!-- Step 1: TokenGuard -->
+        <g transform="translate(22 96)">
+          <rect width="426" height="48" rx="8" fill="#161b22" stroke="#1f6feb" stroke-width="1.5"/>
+          <circle cx="20" cy="24" r="8" fill="#2f81f7" fill-opacity="0.2"/>
+          <text x="16" y="28" fill="#58a6ff" font-size="12">🛡️</text>
+          <text x="42" y="24" fill="#f0f6fc" font-weight="700">TokenGuard</text>
+          <text x="136" y="24" fill="#8b949e" font-size="11">v0.2.0</text>
+          <text x="42" y="40" fill="#7ee787" font-size="11">0 secrets detected · baseline clean · SARIF emitted</text>
+          <rect x="365" y="14" width="48" height="20" rx="5" fill="#238636"/>
+          <text x="375" y="28" fill="#ffffff" font-size="10" font-weight="700">PASS</text>
+        </g>
+
+        <!-- Step 2: EnvDoctor -->
+        <g transform="translate(22 154)">
+          <rect width="426" height="48" rx="8" fill="#161b22" stroke="#238636" stroke-width="1.5"/>
+          <circle cx="20" cy="24" r="8" fill="#2ea44f" fill-opacity="0.2"/>
+          <text x="16" y="28" fill="#7ee787" font-size="12">🩺</text>
+          <text x="42" y="24" fill="#f0f6fc" font-weight="700">EnvDoctor</text>
+          <text x="136" y="24" fill="#8b949e" font-size="11">v0.2.0</text>
+          <text x="42" y="40" fill="#7ee787" font-size="11">100% .env contract integrity · 0 drift · AST verified</text>
+          <rect x="365" y="14" width="48" height="20" rx="5" fill="#238636"/>
+          <text x="375" y="28" fill="#ffffff" font-size="10" font-weight="700">PASS</text>
+        </g>
+
+        <!-- Step 3: DeadLinkFinder -->
+        <g transform="translate(22 212)">
+          <rect width="426" height="48" rx="8" fill="#161b22" stroke="#8957e5" stroke-width="1.5"/>
+          <circle cx="20" cy="24" r="8" fill="#8957e5" fill-opacity="0.2"/>
+          <text x="16" y="28" fill="#d2a8ff" font-size="12">🔗</text>
+          <text x="42" y="24" fill="#f0f6fc" font-weight="700">DeadLinkFinder</text>
+          <text x="156" y="24" fill="#8b949e" font-size="11">v0.2.1</text>
+          <text x="42" y="40" fill="#7ee787" font-size="11">0 broken anchors/assets · SHA-256 fingerprints</text>
+          <rect x="365" y="14" width="48" height="20" rx="5" fill="#238636"/>
+          <text x="375" y="28" fill="#ffffff" font-size="10" font-weight="700">PASS</text>
+        </g>
+
+        <!-- Summary bar -->
+        <g transform="translate(22 278)">
+          <rect width="426" height="38" rx="8" fill="#0d1117" stroke="#30363d"/>
+          <circle cx="18" cy="19" r="4" fill="#3fb950"/>
+          <text x="32" y="23" fill="#7ee787" font-weight="700" font-size="11">ALL QUALITY GATES PASSED (3/3)</text>
+          <text x="340" y="23" fill="#8b949e" font-size="10">TOTAL: 0.42s</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
