@@ -6,6 +6,12 @@
   <img src="./assets/header.svg" width="100%" alt="Umut Güngör — ürün odaklı full-stack developer" />
 </picture>
 
+<p align="center">
+  <a href="https://github.com/marketplace?type=actions&query=umutgungorr"><img src="https://img.shields.io/badge/Marketplace-3%20Actions%20Published-2f81f7?style=flat-square&logo=githubactions&logoColor=white&labelColor=161b22" alt="Marketplace Actions" /></a>
+  <a href="https://github.com/umutgungorr?tab=repositories"><img src="https://img.shields.io/badge/Architecture-Zero%20Runtime%20Dependency-2ea44f?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=161b22" alt="Zero Runtime Dependency" /></a>
+  <a href="https://docs.oasis-open.org/sarif/sarif/v2.1.0/sarif-v2.1.0.html"><img src="https://img.shields.io/badge/Security-Native%20SARIF%20v2.1.0-orange?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="SARIF v2.1.0" /></a>
+</p>
+
 </div>
 
 ## `01 / WHO I AM`
@@ -88,33 +94,46 @@
 
 ## `04 / OPEN-SOURCE DEVELOPER TOOLING`
 
-Sıfır bağımlılıklı (zero-dependency), yüksek performanslı açık kaynak CLI geliştirici araçları üçlemesi (Enterprise Edition `v0.2.0`):
+GitHub Marketplace üzerinde yayınlanan, sıfır çalışma zamanı bağımlılığına (zero-runtime-dependency) ve yerel SARIF entegrasyonuna sahip açık kaynak CI/CD güvenlik ve doğrulama araçları üçlemesi:
 
 <table>
   <tr>
     <td width="33%" align="center">
       🛡️ <strong><a href="https://github.com/umutgungorr/tokenguard">TokenGuard</a></strong><br />
-      <sub>Git pre-commit secret tarayıcısı ve SARIF güvenlik raporlayıcı.</sub><br /><br />
-      <a href="https://github.com/umutgungorr/tokenguard/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-blue.svg?style=flat-square" alt="v0.2.0" /></a>
+      <sub>Git pre-commit secret tarayıcısı ve SARIF güvenlik denetçisi.</sub><br /><br />
+      <a href="https://github.com/marketplace/actions/tokenguard-secret-scanner"><img src="https://img.shields.io/badge/Marketplace-Live-blue?style=flat-square&logo=githubactions&logoColor=white" alt="Marketplace Live" /></a>
+      <a href="https://github.com/umutgungorr/tokenguard/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-2f81f7.svg?style=flat-square" alt="v0.2.0" /></a>
       <a href="https://github.com/umutgungorr/tokenguard"><img src="https://img.shields.io/badge/SARIF-v2.1.0-orange.svg?style=flat-square" alt="SARIF v2.1.0" /></a>
-      <a href="https://github.com/umutgungorr/tokenguard"><img src="https://img.shields.io/badge/Baseline-Support-success.svg?style=flat-square" alt="Baseline Support" /></a>
+      <br /><br />
+      <sub>API anahtarları ve bulut kimlik sızıntılarını önler. Baseline ile test anahtarlarını yoksayar.</sub>
     </td>
     <td width="33%" align="center">
       🩺 <strong><a href="https://github.com/umutgungorr/envdoctor">EnvDoctor</a></strong><br />
-      <sub>.env sözleşme denetleyici, çok satırlı ayrıştırıcı ve AST kod tarayıcı.</sub><br /><br />
-      <a href="https://github.com/umutgungorr/envdoctor/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-blue.svg?style=flat-square" alt="v0.2.0" /></a>
+      <sub>.env sözleşme denetleyici, çok satırlı ayrıştırıcı ve kod denetçisi.</sub><br /><br />
+      <a href="https://github.com/marketplace/actions/envdoctor-integrity-linter"><img src="https://img.shields.io/badge/Marketplace-Live-2ea44f?style=flat-square&logo=githubactions&logoColor=white" alt="Marketplace Live" /></a>
+      <a href="https://github.com/umutgungorr/envdoctor/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-2f81f7.svg?style=flat-square" alt="v0.2.0" /></a>
       <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Format-JSON%20CI-brightgreen.svg?style=flat-square" alt="JSON CI" /></a>
-      <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Parser-Multiline-success.svg?style=flat-square" alt="Multiline Parser" /></a>
+      <br /><br />
+      <sub>.env ve .env.example uyuşmazlıklarını yakalar, koddaki eksik ortam değişkenlerini tespit eder.</sub>
     </td>
     <td width="33%" align="center">
       🔗 <strong><a href="https://github.com/umutgungorr/deadlinkfinder">DeadLinkFinder</a></strong><br />
       <sub>Markdown yerel bağlantı, görsel ve başlık çapa doğrulayıcı.</sub><br /><br />
-      <a href="https://github.com/umutgungorr/deadlinkfinder/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-blue.svg?style=flat-square" alt="v0.2.0" /></a>
-      <a href="https://github.com/umutgungorr/deadlinkfinder"><img src="https://img.shields.io/badge/SARIF-v2.1.0-orange.svg?style=flat-square" alt="SARIF v2.1.0" /></a>
-      <a href="https://github.com/umutgungorr/deadlinkfinder"><img src="https://img.shields.io/badge/Mode-Offline%20First-success.svg?style=flat-square" alt="Offline First" /></a>
+      <a href="https://github.com/marketplace/actions/deadlinkfinder-markdown-checker"><img src="https://img.shields.io/badge/Marketplace-Live-8957e5?style=flat-square&logo=githubactions&logoColor=white" alt="Marketplace Live" /></a>
+      <a href="https://github.com/umutgungorr/deadlinkfinder/releases/tag/v0.2.1"><img src="https://img.shields.io/badge/Release-v0.2.1-2f81f7.svg?style=flat-square" alt="v0.2.1" /></a>
+      <a href="https://github.com/umutgungorr/deadlinkfinder"><img src="https://img.shields.io/badge/SARIF-Fingerprints-orange.svg?style=flat-square" alt="SARIF Fingerprints" /></a>
+      <br /><br />
+      <sub>Kırık Markdown bağlantılarını, eksik görselleri ve GitHub başlık çapalarını yerel olarak doğrular.</sub>
     </td>
   </tr>
 </table>
+
+```yaml
+# Tek Adımda GitHub Actions CI/CD Entegrasyonu
+- uses: umutgungorr/tokenguard@v0.2.0     # Secret Leak Prevention & SARIF
+- uses: umutgungorr/envdoctor@v0.2.0      # Environment Contract Integrity & JSON
+- uses: umutgungorr/deadlinkfinder@v0.2.1  # Documentation Anchor & Asset Verification
+```
 
 ## `05 / CONNECT`
 
