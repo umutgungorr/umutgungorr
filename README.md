@@ -22,16 +22,6 @@
   <img src="./assets/terminal.svg" width="100%" alt="Umut Güngör's engineering philosophy, developer tooling, and active shipping focus" />
 </picture>
 
-I am a product-minded **Full-Stack Developer** building resilient web applications and zero-dependency developer tools. I focus on turning complex technical workflows into clean, intuitive systems, and engineering ideas into fast, dependable, and maintainable software.
-
-<table>
-  <tr>
-    <td width="33%" align="center"><strong>PRODUCT THINKING</strong><br /><sub>From user need to production-ready software</sub></td>
-    <td width="33%" align="center"><strong>CLEAR SYSTEMS</strong><br /><sub>Clean architecture & explicit domain boundaries</sub></td>
-    <td width="33%" align="center"><strong>SHIP QUALITY</strong><br /><sub>Type safety, automated tests & rapid iteration</sub></td>
-  </tr>
-</table>
-
 ## `02 / STACK`
 
 <div align="center">
