@@ -6,6 +6,9 @@
   <img src="./assets/header.svg" width="100%" alt="Umut Güngör — product-minded full-stack developer" />
 </picture>
 
+<p><a href="https://umutgungorr.com/"><strong>Umut Güngör — Resmi Web Sitesi</strong></a><br />
+<sub>TypeScript, React ve Python ile web uygulamaları ve geliştirici araçları geliştiriyorum.</sub></p>
+
 <p align="center">
   <a href="https://github.com/marketplace?type=actions&query=umutgungorr"><img src="https://img.shields.io/badge/Marketplace-3%20Actions%20Published-2f81f7?style=flat-square&logo=githubactions&logoColor=white&labelColor=161b22" alt="Marketplace Actions" /></a>
   <a href="https://github.com/umutgungorr?tab=repositories"><img src="https://img.shields.io/badge/Architecture-Zero%20Runtime%20Dependency-2ea44f?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=161b22" alt="Zero Runtime Dependency" /></a>
