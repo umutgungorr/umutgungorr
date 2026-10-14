@@ -7,11 +7,12 @@
 </picture>
 
 <p><a href="https://umutgungorr.com/"><strong>Umut Güngör — Resmi Web Sitesi</strong></a><br />
-<sub>TypeScript, React ve Python ile web uygulamaları ve geliştirici araçları geliştiriyorum.</sub></p>
+<sub>TypeScript, React ve Python ile web uygulamaları, sistem araçları ve adli tıp teşhis motorları geliştiriyorum.</sub></p>
 
 <p align="center">
-  <a href="https://github.com/marketplace?type=actions&query=umutgungorr"><img src="https://img.shields.io/badge/Marketplace-3%20Actions%20Published-2f81f7?style=flat-square&logo=githubactions&logoColor=white&labelColor=161b22" alt="Marketplace Actions" /></a>
+  <a href="https://github.com/marketplace?type=actions&query=umutgungorr"><img src="https://img.shields.io/badge/Marketplace-Actions%20Published-2f81f7?style=flat-square&logo=githubactions&logoColor=white&labelColor=161b22" alt="Marketplace Actions" /></a>
   <a href="https://github.com/umutgungorr?tab=repositories"><img src="https://img.shields.io/badge/Architecture-Zero%20Runtime%20Dependency-2ea44f?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=161b22" alt="Zero Runtime Dependency" /></a>
+  <a href="https://github.com/umutgungorr"><img src="https://img.shields.io/badge/Flagships-100%25%20Tested-brightgreen?style=flat-square&logo=pytest&logoColor=white&labelColor=161b22" alt="100% Tested" /></a>
   <a href="https://docs.oasis-open.org/sarif/sarif/v2.1.0/sarif-v2.1.0.html"><img src="https://img.shields.io/badge/Security-Native%20SARIF%20v2.1.0-orange?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="SARIF v2.1.0" /></a>
 </p>
 
@@ -40,58 +41,83 @@
   <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode" />
 </div>
 
-## `03 / OPEN-SOURCE DEVELOPER TOOLING`
+## `03 / FLAGSHIP DEVELOPER & SYSTEM DIAGNOSTICS SUITE`
 
-<a href="https://github.com/marketplace?type=actions&query=umutgungorr">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/toolkit-light.svg" />
-  <img src="./assets/toolkit.svg" width="100%" alt="Developer Quality Toolkit — zero-dependency security, configuration and documentation suite" />
-</picture>
-</a>
-
-A zero-runtime-dependency developer tooling suite published on GitHub Marketplace with native SARIF v2.1.0 security integration:
+A flagship suite of **zero-external-dependency**, high-velocity developer tools designed to diagnose and eliminate invisible system drag across ports, logs, and Git history:
 
 <table>
   <tr>
     <td width="33%" align="center">
-      🛡️ <strong><a href="https://github.com/umutgungorr/tokenguard">TokenGuard</a></strong><br />
-      <sub>Git pre-commit secret scanner & SARIF security reporter.</sub><br /><br />
-      <a href="https://github.com/marketplace/actions/tokenguard-secret-scanner"><img src="https://img.shields.io/badge/Marketplace-Live-blue?style=flat-square&logo=githubactions&logoColor=white" alt="Marketplace Live" /></a>
-      <a href="https://github.com/umutgungorr/tokenguard/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-2f81f7.svg?style=flat-square" alt="v0.2.0" /></a>
-      <a href="https://github.com/umutgungorr/tokenguard"><img src="https://img.shields.io/badge/SARIF-v2.1.0-orange.svg?style=flat-square" alt="SARIF v2.1.0" /></a>
+      🌲 <strong><a href="https://github.com/umutgungorr/porttree">PortTree</a></strong><br />
+      <sub>Dev socket tree scanner & Docker proxy unmasker.</sub><br /><br />
+      <a href="https://github.com/umutgungorr/porttree/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
+      <a href="https://github.com/umutgungorr/porttree/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-2f81f7.svg?style=flat-square" alt="v1.0.0" /></a>
+      <a href="https://github.com/umutgungorr/porttree"><img src="https://img.shields.io/badge/Tests-88%20passed-brightgreen.svg?style=flat-square" alt="88 passed" /></a>
       <br /><br />
-      <sub>Blocks API keys, cloud tokens, and high-entropy secrets from Git history. Supports baseline suppression for test mock credentials.</sub>
+      <sub>Maps open ports to full process hierarchies, CWDs, and active Git branches. Unmasks opaque <code>docker-proxy</code> containers and kills zombie worker trees safely.</sub>
     </td>
     <td width="33%" align="center">
-      🩺 <strong><a href="https://github.com/umutgungorr/envdoctor">EnvDoctor</a></strong><br />
-      <sub>.env contract linter, multiline parser & codebase AST auditor.</sub><br /><br />
-      <a href="https://github.com/marketplace/actions/envdoctor-integrity-linter"><img src="https://img.shields.io/badge/Marketplace-Live-2ea44f?style=flat-square&logo=githubactions&logoColor=white" alt="Marketplace Live" /></a>
-      <a href="https://github.com/umutgungorr/envdoctor/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-2f81f7.svg?style=flat-square" alt="v0.2.0" /></a>
-      <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Format-JSON%20CI-brightgreen.svg?style=flat-square" alt="JSON CI" /></a>
+      ⚡ <strong><a href="https://github.com/umutgungorr/logshrink">LogShrink</a></strong><br />
+      <sub>Zero-config CLI terminal stream noise filter.</sub><br /><br />
+      <a href="https://github.com/umutgungorr/logshrink/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
+      <a href="https://github.com/umutgungorr/logshrink/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-2f81f7.svg?style=flat-square" alt="v1.0.0" /></a>
+      <a href="https://github.com/umutgungorr/logshrink"><img src="https://img.shields.io/badge/Tests-68%20passed-brightgreen.svg?style=flat-square" alt="68 passed" /></a>
       <br /><br />
-      <sub>Detects .env & .env.example contract drift. Audits source code for missing or unconfigured environment variables.</sub>
+      <sub>Deduplicates repetitive polling and healthcheck floods into live counter badges like <code>[x480 suppressed]</code>. Auto-boxes multi-line exceptions in real time.</sub>
     </td>
     <td width="33%" align="center">
-      🔗 <strong><a href="https://github.com/umutgungorr/deadlinkfinder">DeadLinkFinder</a></strong><br />
-      <sub>Markdown link, image, and heading-anchor integrity verifier.</sub><br /><br />
-      <a href="https://github.com/marketplace/actions/deadlinkfinder-markdown-checker"><img src="https://img.shields.io/badge/Marketplace-Live-8957e5?style=flat-square&logo=githubactions&logoColor=white" alt="Marketplace Live" /></a>
-      <a href="https://github.com/umutgungorr/deadlinkfinder/releases/tag/v0.2.1"><img src="https://img.shields.io/badge/Release-v0.2.1-2f81f7.svg?style=flat-square" alt="v0.2.1" /></a>
-      <a href="https://github.com/umutgungorr/deadlinkfinder"><img src="https://img.shields.io/badge/SARIF-Fingerprints-orange.svg?style=flat-square" alt="SARIF Fingerprints" /></a>
+      🩺 <strong><a href="https://github.com/umutgungorr/repopulse">RepoPulse</a></strong><br />
+      <sub>Git forensic health & knowledge silo audit engine.</sub><br /><br />
+      <a href="https://github.com/umutgungorr/repopulse/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
+      <a href="https://github.com/umutgungorr/repopulse/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-2f81f7.svg?style=flat-square" alt="v1.0.0" /></a>
+      <a href="https://github.com/umutgungorr/repopulse"><img src="https://img.shields.io/badge/Tests-46%20passed-brightgreen.svg?style=flat-square" alt="46 passed" /></a>
       <br /><br />
-      <sub>Offline verification of relative documentation links, missing assets, and GitHub heading anchors with stable SARIF fingerprints.</sub>
+      <sub>Mines Git commit history in &lt;20ms to detect single-author bus factor risks, identify architectural bug hotspots, uncover temporal coupling, and compute a 0–100 health score.</sub>
     </td>
   </tr>
 </table>
 
 ```yaml
 # Instant GitHub Actions CI/CD Integration
-- uses: umutgungorr/tokenguard@v0.2.0     # Secret Leak Prevention & SARIF
-- uses: umutgungorr/envdoctor@v0.2.0      # Environment Contract Integrity & JSON
-- uses: umutgungorr/deadlinkfinder@v0.2.1  # Documentation Anchor & Asset Verification
+- uses: umutgungorr/porttree@v1     # Pre-Flight Port & Socket Collision Guard
+- uses: umutgungorr/logshrink@v1    # Condense CI Test Logs to Step Summary
+- uses: umutgungorr/repopulse@v1    # Git Forensic Codebase Health Gate (--fail-under 80)
 ```
 
-## `04 / FULL-STACK WEB PRODUCTS`
+## `04 / INTEGRITY & DOCUMENTATION TOOLING`
+
+A complementary suite of zero-runtime-dependency linters and integrity checkers:
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      🔗 <strong><a href="https://github.com/umutgungorr/deadlinkfinder">DeadLinkFinder</a></strong><br />
+      <sub>Markdown &amp; rST link, image, and heading-anchor integrity verifier.</sub><br /><br />
+      <a href="https://github.com/umutgungorr/deadlinkfinder/releases/tag/v0.2.1"><img src="https://img.shields.io/badge/Release-v0.2.1-2f81f7.svg?style=flat-square" alt="v0.2.1" /></a>
+      <a href="https://github.com/umutgungorr/deadlinkfinder"><img src="https://img.shields.io/badge/Tests-32%20passed-brightgreen.svg?style=flat-square" alt="32 passed" /></a>
+      <br /><br />
+      <sub>Offline verification of documentation links, image assets, and GitHub heading anchors with community rST support and SARIF fingerprints.</sub>
+    </td>
+    <td width="33%" align="center">
+      🩺 <strong><a href="https://github.com/umutgungorr/envdoctor">EnvDoctor</a></strong><br />
+      <sub>.env contract linter, multiline parser &amp; AST auditor.</sub><br /><br />
+      <a href="https://github.com/umutgungorr/envdoctor/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-2f81f7.svg?style=flat-square" alt="v0.2.0" /></a>
+      <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Format-JSON%20CI-brightgreen.svg?style=flat-square" alt="JSON CI" /></a>
+      <br /><br />
+      <sub>Detects .env &amp; .env.example contract drift. Audits source code for missing or unconfigured environment variables.</sub>
+    </td>
+    <td width="33%" align="center">
+      🛡️ <strong><a href="https://github.com/umutgungorr/tokenguard">TokenGuard</a></strong><br />
+      <sub>Git pre-commit secret scanner &amp; SARIF security reporter.</sub><br /><br />
+      <a href="https://github.com/umutgungorr/tokenguard/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-2f81f7.svg?style=flat-square" alt="v0.2.0" /></a>
+      <a href="https://github.com/umutgungorr/tokenguard"><img src="https://img.shields.io/badge/SARIF-v2.1.0-orange.svg?style=flat-square" alt="SARIF v2.1.0" /></a>
+      <br /><br />
+      <sub>Blocks API keys, cloud tokens, and high-entropy secrets from Git history with baseline suppression.</sub>
+    </td>
+  </tr>
+</table>
+
+## `05 / FULL-STACK WEB PRODUCTS`
 
 <a href="https://github.com/umutgungorr/chronoflow">
 <picture>
@@ -136,7 +162,7 @@ A zero-runtime-dependency developer tooling suite published on GitHub Marketplac
   <sub>UPLOAD · MATCH · REFINE</sub>
 </p>
 
-## `05 / CONNECT`
+## `06 / CONNECT`
 
 <div align="center">
 
