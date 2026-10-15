@@ -47,7 +47,7 @@ A flagship suite of **zero-external-dependency**, high-velocity developer tools 
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       🌲 <strong><a href="https://github.com/umutgungorr/porttree">PortTree</a></strong><br />
       <sub>Dev socket tree scanner & Docker proxy unmasker.</sub><br /><br />
       <a href="https://github.com/umutgungorr/porttree/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
@@ -56,7 +56,7 @@ A flagship suite of **zero-external-dependency**, high-velocity developer tools 
       <br /><br />
       <sub>Maps open ports to full process hierarchies, CWDs, and active Git branches. Unmasks opaque <code>docker-proxy</code> containers and kills zombie worker trees safely.</sub>
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       ⚡ <strong><a href="https://github.com/umutgungorr/logshrink">LogShrink</a></strong><br />
       <sub>Zero-config CLI terminal stream noise filter.</sub><br /><br />
       <a href="https://github.com/umutgungorr/logshrink/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
@@ -65,7 +65,9 @@ A flagship suite of **zero-external-dependency**, high-velocity developer tools 
       <br /><br />
       <sub>Deduplicates repetitive polling and healthcheck floods into live counter badges like <code>[x480 suppressed]</code>. Auto-boxes multi-line exceptions in real time.</sub>
     </td>
-    <td width="33%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       🩺 <strong><a href="https://github.com/umutgungorr/repopulse">RepoPulse</a></strong><br />
       <sub>Git forensic health & knowledge silo audit engine.</sub><br /><br />
       <a href="https://github.com/umutgungorr/repopulse/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
@@ -74,6 +76,15 @@ A flagship suite of **zero-external-dependency**, high-velocity developer tools 
       <br /><br />
       <sub>Mines Git commit history in &lt;20ms to detect single-author bus factor risks, identify architectural bug hotspots, uncover temporal coupling, and compute a 0–100 health score.</sub>
     </td>
+    <td width="50%" align="center">
+      💊 <strong><a href="https://github.com/umutgungorr/envdoctor">EnvDoctor</a></strong><br />
+      <sub>.env contract linter, secret-safe synchronizer & auditor.</sub><br /><br />
+      <a href="https://github.com/umutgungorr/envdoctor/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
+      <a href="https://github.com/umutgungorr/envdoctor/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-2f81f7.svg?style=flat-square" alt="v0.2.0" /></a>
+      <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Tests-32%20passed-brightgreen.svg?style=flat-square" alt="32 passed" /></a>
+      <br /><br />
+      <sub>Validates environment contracts, auto-populates <code>.env.example</code> with intelligent masked placeholders without secret leaks, and scans source code for unconfigured variables.</sub>
+    </td>
   </tr>
 </table>
 
@@ -81,7 +92,8 @@ A flagship suite of **zero-external-dependency**, high-velocity developer tools 
 # Instant GitHub Actions CI/CD Integration
 - uses: umutgungorr/porttree@v1     # Pre-Flight Port & Socket Collision Guard
 - uses: umutgungorr/logshrink@v1    # Condense CI Test Logs to Step Summary
-- uses: umutgungorr/repopulse@v1    # Git Forensic Codebase Health Gate (--fail-under 80)
+- uses: umutgungorr/repopulse@v1    # Git Forensic Codebase Health Gate
+- uses: umutgungorr/envdoctor@v1    # .env Contract Integrity & Drift Linter
 ```
 
 ## `04 / INTEGRITY & DOCUMENTATION TOOLING`
