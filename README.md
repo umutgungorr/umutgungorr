@@ -6,10 +6,11 @@
   <img src="./assets/header.svg" width="100%" alt="Umut Güngör — product-minded full-stack developer" />
 </picture>
 
-<p><a href="https://umutgungorr.com/"><strong>Umut Güngör — Resmi Web Sitesi</strong></a><br />
-<sub>TypeScript, React ve Python ile web uygulamaları, sistem araçları ve adli tıp teşhis motorları geliştiriyorum.</sub></p>
+<p><a href="https://umutgungorr.com/"><strong>umutgungorr.com — Official Portfolio &amp; Case Studies</strong></a><br />
+<sub>Product-minded Full-Stack Engineer building zero-dependency CLI diagnostics, local-first web products, and high-velocity developer tooling.</sub></p>
 
 <p align="center">
+  <a href="https://pypi.org/user/umutgngr/"><img src="https://img.shields.io/badge/PyPI-6%20Packages%20Live-3775A9?style=flat-square&logo=pypi&logoColor=white&labelColor=161b22" alt="PyPI Packages" /></a>
   <a href="https://github.com/marketplace?type=actions&query=umutgungorr"><img src="https://img.shields.io/badge/Marketplace-Actions%20Published-2f81f7?style=flat-square&logo=githubactions&logoColor=white&labelColor=161b22" alt="Marketplace Actions" /></a>
   <a href="https://github.com/umutgungorr?tab=repositories"><img src="https://img.shields.io/badge/Architecture-Zero%20Runtime%20Dependency-2ea44f?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=161b22" alt="Zero Runtime Dependency" /></a>
   <a href="https://github.com/umutgungorr"><img src="https://img.shields.io/badge/Flagships-100%25%20Tested-brightgreen?style=flat-square&logo=pytest&logoColor=white&labelColor=161b22" alt="100% Tested" /></a>
@@ -43,47 +44,51 @@
 
 ## `03 / FLAGSHIP DEVELOPER & SYSTEM DIAGNOSTICS SUITE`
 
-A flagship suite of **zero-external-dependency**, high-velocity developer tools designed to diagnose and eliminate invisible system drag across ports, logs, and Git history:
+A flagship suite of **zero-external-dependency**, high-velocity developer tools designed to diagnose and eliminate invisible system drag across ports, logs, environment contracts, and Git history:
 
 <table>
   <tr>
     <td width="50%" align="center">
       🌲 <strong><a href="https://github.com/umutgungorr/porttree">PortTree</a></strong><br />
-      <sub>Dev socket tree scanner & Docker proxy unmasker.</sub><br /><br />
+      <sub>Dev socket tree scanner &amp; Docker proxy unmasker.</sub><br /><br />
       <a href="https://github.com/umutgungorr/porttree/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
-      <a href="https://github.com/umutgungorr/porttree/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-2f81f7.svg?style=flat-square" alt="v1.0.0" /></a>
+      <a href="https://pypi.org/project/porttree/"><img src="https://img.shields.io/pypi/v/porttree.svg?style=flat-square&logo=pypi&logoColor=white&color=2f81f7" alt="PyPI" /></a>
       <a href="https://github.com/umutgungorr/porttree"><img src="https://img.shields.io/badge/Tests-88%20passed-brightgreen.svg?style=flat-square" alt="88 passed" /></a>
       <br /><br />
-      <sub>Maps open ports to full process hierarchies, CWDs, and active Git branches. Unmasks opaque <code>docker-proxy</code> containers and kills zombie worker trees safely.</sub>
+      <sub>Maps open ports to full process hierarchies, CWDs, and active Git branches. Unmasks opaque <code>docker-proxy</code> containers and kills zombie worker trees safely.</sub><br />
+      <sub><code>uvx porttree</code> · <code>pip install porttree</code></sub>
     </td>
     <td width="50%" align="center">
       ⚡ <strong><a href="https://github.com/umutgungorr/logshrink">LogShrink</a></strong><br />
       <sub>Zero-config CLI terminal stream noise filter.</sub><br /><br />
       <a href="https://github.com/umutgungorr/logshrink/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
-      <a href="https://github.com/umutgungorr/logshrink/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-2f81f7.svg?style=flat-square" alt="v1.0.0" /></a>
+      <a href="https://pypi.org/project/logshrink/"><img src="https://img.shields.io/pypi/v/logshrink.svg?style=flat-square&logo=pypi&logoColor=white&color=2f81f7" alt="PyPI" /></a>
       <a href="https://github.com/umutgungorr/logshrink"><img src="https://img.shields.io/badge/Tests-68%20passed-brightgreen.svg?style=flat-square" alt="68 passed" /></a>
       <br /><br />
-      <sub>Deduplicates repetitive polling and healthcheck floods into live counter badges like <code>[x480 suppressed]</code>. Auto-boxes multi-line exceptions in real time.</sub>
+      <sub>Deduplicates repetitive polling and healthcheck floods into live counter badges like <code>[x480 suppressed]</code>. Auto-boxes multi-line exceptions in real time.</sub><br />
+      <sub><code>uvx logshrink</code> · <code>pip install logshrink</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       🩺 <strong><a href="https://github.com/umutgungorr/repopulse">RepoPulse</a></strong><br />
-      <sub>Git forensic health & knowledge silo audit engine.</sub><br /><br />
+      <sub>Git forensic health &amp; knowledge silo audit engine.</sub><br /><br />
       <a href="https://github.com/umutgungorr/repopulse/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
-      <a href="https://github.com/umutgungorr/repopulse/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-2f81f7.svg?style=flat-square" alt="v1.0.0" /></a>
+      <a href="https://pypi.org/project/git-repopulse/"><img src="https://img.shields.io/pypi/v/git-repopulse.svg?style=flat-square&logo=pypi&logoColor=white&color=2f81f7" alt="PyPI" /></a>
       <a href="https://github.com/umutgungorr/repopulse"><img src="https://img.shields.io/badge/Tests-46%20passed-brightgreen.svg?style=flat-square" alt="46 passed" /></a>
       <br /><br />
-      <sub>Mines Git commit history in &lt;20ms to detect single-author bus factor risks, identify architectural bug hotspots, uncover temporal coupling, and compute a 0–100 health score.</sub>
+      <sub>Mines Git commit history in &lt;20ms to detect single-author bus factor risks, identify architectural bug hotspots, uncover temporal coupling, and compute a 0–100 health score.</sub><br />
+      <sub><code>pip install git-repopulse</code> · <code>repopulse audit</code></sub>
     </td>
     <td width="50%" align="center">
       💊 <strong><a href="https://github.com/umutgungorr/envdoctor">EnvDoctor</a></strong><br />
-      <sub>.env contract linter, secret-safe synchronizer & auditor.</sub><br /><br />
+      <sub>.env contract linter, secret-safe synchronizer &amp; auditor.</sub><br /><br />
       <a href="https://github.com/umutgungorr/envdoctor/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
-      <a href="https://github.com/umutgungorr/envdoctor/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-2f81f7.svg?style=flat-square" alt="v0.2.0" /></a>
+      <a href="https://pypi.org/project/envdoctor-cli/"><img src="https://img.shields.io/pypi/v/envdoctor-cli.svg?style=flat-square&logo=pypi&logoColor=white&color=2f81f7" alt="PyPI" /></a>
       <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Tests-32%20passed-brightgreen.svg?style=flat-square" alt="32 passed" /></a>
       <br /><br />
-      <sub>Validates environment contracts, auto-populates <code>.env.example</code> with intelligent masked placeholders without secret leaks, and scans source code for unconfigured variables.</sub>
+      <sub>Validates environment contracts, auto-populates <code>.env.example</code> with intelligent masked placeholders without secret leaks, and scans source code for unconfigured variables.</sub><br />
+      <sub><code>pip install envdoctor-cli</code> · <code>envdoctor check</code></sub>
     </td>
   </tr>
 </table>
@@ -92,39 +97,39 @@ A flagship suite of **zero-external-dependency**, high-velocity developer tools 
 # Instant GitHub Actions CI/CD Integration
 - uses: umutgungorr/porttree@v1     # Pre-Flight Port & Socket Collision Guard
 - uses: umutgungorr/logshrink@v1    # Condense CI Test Logs to Step Summary
-- uses: umutgungorr/repopulse@v1    # Git Forensic Codebase Health Gate
+- uses: umutgungorr/repopulse@v1    # Git Forensic Codebase Health Gate (--fail-under 80)
 - uses: umutgungorr/envdoctor@v1    # .env Contract Integrity & Drift Linter
 ```
 
-## `04 / INTEGRITY & DOCUMENTATION TOOLING`
+## `04 / SECURITY, INTEGRITY & DOCUMENTATION TOOLING`
 
-A complementary suite of zero-runtime-dependency linters and integrity checkers:
+A complementary suite of zero-runtime-dependency security scanners, linters, and documentation verifiers:
 
 <table>
   <tr>
     <td width="33%" align="center">
       🔗 <strong><a href="https://github.com/umutgungorr/deadlinkfinder">DeadLinkFinder</a></strong><br />
       <sub>Markdown &amp; rST link, image, and heading-anchor integrity verifier.</sub><br /><br />
-      <a href="https://github.com/umutgungorr/deadlinkfinder/releases/tag/v0.2.1"><img src="https://img.shields.io/badge/Release-v0.2.1-2f81f7.svg?style=flat-square" alt="v0.2.1" /></a>
+      <a href="https://pypi.org/project/deadlinkfinder/"><img src="https://img.shields.io/pypi/v/deadlinkfinder.svg?style=flat-square&logo=pypi&logoColor=white&color=2f81f7" alt="v0.2.2" /></a>
       <a href="https://github.com/umutgungorr/deadlinkfinder"><img src="https://img.shields.io/badge/Tests-32%20passed-brightgreen.svg?style=flat-square" alt="32 passed" /></a>
       <br /><br />
-      <sub>Offline verification of documentation links, image assets, and GitHub heading anchors with community rST support and SARIF fingerprints.</sub>
-    </td>
-    <td width="33%" align="center">
-      🩺 <strong><a href="https://github.com/umutgungorr/envdoctor">EnvDoctor</a></strong><br />
-      <sub>.env contract linter, multiline parser &amp; AST auditor.</sub><br /><br />
-      <a href="https://github.com/umutgungorr/envdoctor/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-2f81f7.svg?style=flat-square" alt="v0.2.0" /></a>
-      <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Format-JSON%20CI-brightgreen.svg?style=flat-square" alt="JSON CI" /></a>
-      <br /><br />
-      <sub>Detects .env &amp; .env.example contract drift. Audits source code for missing or unconfigured environment variables.</sub>
+      <sub>Offline verification of documentation links, image assets, and GitHub heading anchors with community rST support and SARIF v2.1.0 fingerprints.</sub>
     </td>
     <td width="33%" align="center">
       🛡️ <strong><a href="https://github.com/umutgungorr/tokenguard">TokenGuard</a></strong><br />
       <sub>Git pre-commit secret scanner &amp; SARIF security reporter.</sub><br /><br />
-      <a href="https://github.com/umutgungorr/tokenguard/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Release-v0.2.0-2f81f7.svg?style=flat-square" alt="v0.2.0" /></a>
+      <a href="https://pypi.org/project/tokenguard-cli/"><img src="https://img.shields.io/pypi/v/tokenguard-cli.svg?style=flat-square&logo=pypi&logoColor=white&color=2f81f7" alt="PyPI" /></a>
       <a href="https://github.com/umutgungorr/tokenguard"><img src="https://img.shields.io/badge/SARIF-v2.1.0-orange.svg?style=flat-square" alt="SARIF v2.1.0" /></a>
       <br /><br />
-      <sub>Blocks API keys, cloud tokens, and high-entropy secrets from Git history with baseline suppression.</sub>
+      <sub>Blocks API keys, cloud tokens, and high-entropy secrets from Git history with baseline suppression and pre-commit integration.</sub>
+    </td>
+    <td width="33%" align="center">
+      🔒 <strong><a href="https://github.com/umutgungorr/pysentinel">PySentinel</a></strong><br />
+      <sub>Zero-dependency Python AST security &amp; vulnerability linter.</sub><br /><br />
+      <a href="https://github.com/umutgungorr/pysentinel"><img src="https://img.shields.io/badge/Engine-AST%20Static%20Analysis-2ea44f.svg?style=flat-square" alt="AST Analysis" /></a>
+      <a href="https://github.com/umutgungorr/pysentinel"><img src="https://img.shields.io/badge/SARIF-v2.1.0-orange.svg?style=flat-square" alt="SARIF v2.1.0" /></a>
+      <br /><br />
+      <sub>High-precision static security analyzer catching injection risks, unsafe deserialization, and dangerous calls with native GitHub Code Scanning SARIF output.</sub>
     </td>
   </tr>
 </table>
@@ -180,7 +185,8 @@ A complementary suite of zero-runtime-dependency linters and integrity checkers:
 
 **Let's build thoughtful, resilient software together.**
 
-[![Email](https://img.shields.io/badge/EMAIL-umutm7944%40gmail.com-2f81f7?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22)](mailto:umutm7944@gmail.com)
+[![Website](https://img.shields.io/badge/WEBSITE-umutgungorr.com-2ea44f?style=flat-square&logo=googlechrome&logoColor=white&labelColor=161b22)](https://umutgungorr.com/)
+[![Email](https://img.shields.io/badge/EMAIL-contact.umutgungor%40gmail.com-2f81f7?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22)](mailto:contact.umutgungor@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-in%2Fumut--gungor-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/umut-gungor/)
 
 <sub>Open to focused engineering collaborations, ambitious developer tooling ideas, and high-impact teams.</sub>
