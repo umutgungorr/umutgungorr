@@ -192,3 +192,11 @@ A complementary suite of zero-runtime-dependency security scanners, linters, and
 <sub>Open to focused engineering collaborations, ambitious developer tooling ideas, and high-impact teams.</sub>
 
 </div>
+
+---
+
+### Umut Güngör Kimdir?
+Umut Güngör, TypeScript, React ve Python ile modern web sistemleri, AI araçları ve açık kaynak araçlar geliştiren Yazılım Mühendisidir.
+- 🌐 Web Sitesi: [umutgungorr.com](https://umutgungorr.com/)
+- 📄 Özgeçmiş & Projeler: [umutgungorr.com/about](https://umutgungorr.com/about)
+
