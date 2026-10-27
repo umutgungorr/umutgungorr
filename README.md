@@ -1,127 +1,342 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-  <img src="./assets/header.svg" width="100%" alt="Umut Güngör — product-minded full-stack developer" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:07110D,50:10251C,100:07110D&text=UMUT%20G%C3%9CNG%C3%96R&fontSize=48&fontColor=E8FFF1&fontAlignY=40&desc=DEVELOPER%20%2F%20OPEN%20SOURCE%20%2F%20SYSTEMS&descSize=12&descAlignY=59&descColor=7CFFB2&animation=fadeIn" alt="Umut Güngör — Developer"/>
 
 <br/>
 
-**Product-minded Full-Stack Engineer**  
-Zero-dependency CLI diagnostics · Local-first web products · High-velocity developer tooling
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=650&color=7CFFB2&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Building+tools+that+remove+friction.;Turning+complexity+into+clarity.;Open+source.+Thoughtful+products.;Less+noise.+More+signal." alt="Animated developer introduction"/>
 
-<br/>
+<br/><br/>
 
-[![Website](https://img.shields.io/badge/umutgungorr.com-Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://umutgungorr.com/)
-[![PyPI](https://img.shields.io/badge/PyPI-6_Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/umutgngr/)
-[![GitHub Actions](https://img.shields.io/badge/Marketplace-Actions-2f81f7?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/marketplace?type=actions&query=umutgungorr)
-[![Architecture](https://img.shields.io/badge/Zero_Runtime_Dependency-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/umutgungorr)
-[![Tests](https://img.shields.io/badge/Flagships-100%25_Tested-brightgreen?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/umutgungorr)
-[![SARIF](https://img.shields.io/badge/SARIF_v2.1.0-Native-orange?style=for-the-badge&logo=github&logoColor=white)](https://docs.oasis-open.org/sarif/sarif/v2.1.0/sarif-v2.1.0.html)
+<a href="https://umutgungorr.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=7CFFB2" alt="Portfolio"/>
+</a>
+<a href="https://github.com/umutgungorr?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-0B0F14?style=for-the-badge&logo=github&logoColor=7CFFB2" alt="Projects"/>
+</a>
+<a href="https://pypi.org/user/umutgngr/">
+<img src="https://img.shields.io/badge/PYPI-0B0F14?style=for-the-badge&logo=pypi&logoColor=7CFFB2" alt="PyPI"/>
+</a>
+<a href="https://www.linkedin.com/in/umut-gungor/">
+<img src="https://img.shields.io/badge/CONNECT-0B0F14?style=for-the-badge&logo=linkedin&logoColor=7CFFB2" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=umutgungorr&style=flat-square&color=7CFFB2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-### `01 / whoami`
+## ABOUT
+
+<img align="right" width="120" src="https://github.com/umutgungorr.png" alt="Umut Güngör"/>
+
+I'm a developer interested in building useful software, developer tools, and thoughtful web products.
+
+I enjoy turning repetitive workflows into focused tools, simplifying complex systems, and creating products that feel as good to use as they are to build.
+
+My interests span web development, Python tooling, automation, software security, and local-first applications.
+
+**My philosophy:** Build with intention. Keep things simple. Make every detail count.
+
+<br clear="right"/>
+
+---
+
+## TECH STACK
 
 <div align="center">
 
-<!-- Hareketli Typing Whoami -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=680&lines=umut%40ug%3A~%24+whoami;Umut+G%C3%BCng%C3%B6r+%E2%80%94+Software+Engineer+%26+Systems+Builder;Building+zero-dependency+CLIs+%26+local-first+products;TypeScript+%C2%B7+React+%C2%B7+Python+%C2%B7+Systems" alt="Typing SVG" />
+### FRONTEND & INTERFACES
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,astro,tailwind,electron,html,css,js&theme=dark" alt="Frontend stack"/>
+
+<br/><br/>
+
+### BACKEND & DATA
+
+<img src="https://skillicons.dev/icons?i=nodejs,py,php,postgres,mysql,redis,prisma,supabase&theme=dark" alt="Backend stack"/>
+
+<br/><br/>
+
+### SYSTEMS & DEVELOPER TOOLS
+
+<img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode&theme=dark" alt="Systems stack"/>
+
+</div>
+
+---
+
+## OPEN SOURCE LAB
+
+<div align="center">
+
+<sub>SMALL TOOLS · CLEAR PURPOSE · LESS FRICTION</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌲 <a href="https://github.com/umutgungorr/porttree">PortTree</a></h3>
+
+**Understand what's using your ports.**
+
+Maps open ports to process trees, working directories, Git branches, and Docker proxy processes.
+
+`Python` `CLI` `Diagnostics`
+
+<a href="https://pypi.org/project/porttree/">
+<img src="https://img.shields.io/pypi/v/porttree?style=flat-square&color=7CFFB2&label=PyPI" alt="PortTree version"/>
+</a>
+
+<a href="https://github.com/umutgungorr/porttree/actions">
+<img src="https://img.shields.io/badge/WORKFLOWS-161B22?style=flat-square&logo=githubactions&logoColor=7CFFB2" alt="PortTree workflows"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚡ <a href="https://github.com/umutgungorr/logshrink">LogShrink</a></h3>
+
+**Less log noise. More signal.**
+
+Filters repetitive terminal output and makes useful errors easier to find.
+
+`Python` `CLI` `Logging`
+
+<a href="https://pypi.org/project/logshrink/">
+<img src="https://img.shields.io/pypi/v/logshrink?style=flat-square&color=7CFFB2&label=PyPI" alt="LogShrink version"/>
+</a>
+
+<a href="https://github.com/umutgungorr/logshrink/actions">
+<img src="https://img.shields.io/badge/WORKFLOWS-161B22?style=flat-square&logo=githubactions&logoColor=7CFFB2" alt="LogShrink workflows"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🩺 <a href="https://github.com/umutgungorr/repopulse">RepoPulse</a></h3>
+
+**See the hidden health of a repository.**
+
+Analyzes Git history to surface maintenance risks, code hotspots, and knowledge concentration.
+
+`Python` `Git` `Code Health`
+
+<a href="https://pypi.org/project/git-repopulse/">
+<img src="https://img.shields.io/pypi/v/git-repopulse?style=flat-square&color=7CFFB2&label=PyPI" alt="RepoPulse version"/>
+</a>
+
+<a href="https://github.com/umutgungorr/repopulse/actions">
+<img src="https://img.shields.io/badge/WORKFLOWS-161B22?style=flat-square&logo=githubactions&logoColor=7CFFB2" alt="RepoPulse workflows"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💊 <a href="https://github.com/umutgungorr/envdoctor">EnvDoctor</a></h3>
+
+**Keep environment configuration in sync.**
+
+Validates environment contracts and helps identify missing variables and configuration drift.
+
+`Python` `Configuration` `Security`
+
+<a href="https://pypi.org/project/envdoctor-cli/">
+<img src="https://img.shields.io/pypi/v/envdoctor-cli?style=flat-square&color=7CFFB2&label=PyPI" alt="EnvDoctor version"/>
+</a>
+
+<a href="https://github.com/umutgungorr/envdoctor/actions">
+<img src="https://img.shields.io/badge/WORKFLOWS-161B22?style=flat-square&logo=githubactions&logoColor=7CFFB2" alt="EnvDoctor workflows"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/umutgungorr?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-7CFFB2?style=for-the-badge&logo=github&logoColor=0B0F14" alt="Explore all projects"/>
 </a>
 
 </div>
 
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
-    <img src="./assets/terminal.svg" width="100%" alt="Engineering philosophy & active shipping focus" />
-  </picture>
-</div>
-
 ---
 
-### `02 / stack`
-
-<div align="center">
-
-**Frontend & Frameworks**  
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,astro,tailwind,electron&theme=dark&perline=6" />
-
-<br/><br/>
-
-**Backend & Data**  
-<img src="https://skillicons.dev/icons?i=nodejs,py,php,postgres,mysql,redis,prisma,supabase&theme=dark&perline=8" />
-
-<br/><br/>
-
-**DevOps & System**  
-<img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode&theme=dark&perline=6" />
-
-</div>
-
----
-
-### `03 / flagship diagnostics suite`
-
-Zero-external-dependency tools that surface invisible system drag across ports, logs, environment contracts and Git history.
+## SECURITY & CODE INTEGRITY
 
 <table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🌲 <a href="https://github.com/umutgungorr/porttree">PortTree</a></h3>
-      <sub>Dev socket tree scanner & Docker proxy unmasker</sub><br/><br/>
-      <a href="https://github.com/umutgungorr/porttree/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" /></a>
-      <a href="https://pypi.org/project/porttree/"><img src="https://img.shields.io/pypi/v/porttree.svg?style=flat-square&logo=pypi&logoColor=white&color=2f81f7" /></a>
-      <a href="https://github.com/umutgungorr/porttree"><img src="https://img.shields.io/badge/Tests-88_passed-brightgreen?style=flat-square" /></a>
-      <br/><br/>
-      <sub>Maps open ports → process hierarchies, CWDs & active Git branches. Unmasks <code>docker-proxy</code> and safely kills zombie trees.</sub><br/>
-      <code>uvx porttree</code> · <code>pip install porttree</code>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>⚡ <a href="https://github.com/umutgungorr/logshrink">LogShrink</a></h3>
-      <sub>Zero-config terminal stream noise filter</sub><br/><br/>
-      <a href="https://github.com/umutgungorr/logshrink/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" /></a>
-      <a href="https://pypi.org/project/logshrink/"><img src="https://img.shields.io/pypi/v/logshrink.svg?style=flat-square&logo=pypi&logoColor=white&color=2f81f7" /></a>
-      <a href="https://github.com/umutgungorr/logshrink"><img src="https://img.shields.io/badge/Tests-68_passed-brightgreen?style=flat-square" /></a>
-      <br/><br/>
-      <sub>Deduplicates polling & healthcheck floods into live counters like <code>[x480 suppressed]</code>. Auto-boxes multi-line exceptions.</sub><br/>
-      <code>uvx logshrink</code> · <code>pip install logshrink</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🩺 <a href="https://github.com/umutgungorr/repopulse">RepoPulse</a></h3>
-      <sub>Git forensic health & knowledge silo audit</sub><br/><br/>
-      <a href="https://github.com/umutgungorr/repopulse/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" /></a>
-      <a href="https://pypi.org/project/git-repopulse/"><img src="https://img.shields.io/pypi/v/git-repopulse.svg?style=flat-square&logo=pypi&logoColor=white&color=2f81f7" /></a>
-      <a href="https://github.com/umutgungorr/repopulse"><img src="https://img.shields.io/badge/Tests-46_passed-brightgreen?style=flat-square" /></a>
-      <br/><br/>
-      <sub>Mines commit history in &lt;20 ms. Detects bus-factor risk, architectural hotspots, temporal coupling and produces a 0–100 health score.</sub><br/>
-      <code>pip install git-repopulse</code> · <code>repopulse audit</code>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>💊 <a href="https://github.com/umutgungorr/envdoctor">EnvDoctor</a></h3>
-      <sub>.env contract linter & secret-safe synchronizer</sub><br/><br/>
-      <a href="https://github.com/umutgungorr/envdoctor/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=githubactions&logoColor=white" /></a>
-      <a href="https://pypi.org/project/envdoctor-cli/"><img src="https://img.shields.io/pypi/v/envdoctor-cli.svg?style=flat-square&logo=pypi&logoColor=white&color=2f81f7" /></a>
-      <a href="https://github.com/umutgungorr/envdoctor"><img src="https://img.shields.io/badge/Tests-32_passed-brightgreen?style=flat-square" /></a>
-      <br/><br/>
-      <sub>Validates environment contracts, auto-populates <code>.env.example</code> with masked placeholders and scans source for unconfigured variables.</sub><br/>
-      <code>pip install envdoctor-cli</code> · <code>envdoctor check</code>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🔗 [DeadLinkFinder](https://github.com/umutgungorr/deadlinkfinder)
+
+Checks Markdown and reStructuredText links, images, and heading anchors.
+
+`DOCUMENTATION` `MARKDOWN` `SARIF`
+
+[![PyPI](https://img.shields.io/pypi/v/deadlinkfinder?style=flat-square)](https://pypi.org/project/deadlinkfinder/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ [TokenGuard](https://github.com/umutgungorr/tokenguard)
+
+Helps detect accidental secret exposure in source code and Git workflows.
+
+`SECRETS` `PRE-COMMIT` `SARIF`
+
+[![PyPI](https://img.shields.io/pypi/v/tokenguard-cli?style=flat-square)](https://pypi.org/project/tokenguard-cli/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔒 [PySentinel](https://github.com/umutgungorr/pysentinel)
+
+Python AST-based static security analysis.
+
+`PYTHON` `AST` `CODE SECURITY`
+
+[![Source](https://img.shields.io/badge/SOURCE-OPEN-161B22?style=flat-square&logo=github)](https://github.com/umutgungorr/pysentinel)
+
+</td>
+</tr>
 </table>
 
-```yaml
-# Drop-in GitHub Actions
-- uses: umutgungorr/porttree@v1      # Pre-flight port & socket collision guard
-- uses: umutgungorr/logshrink@v1     # Condense noisy CI logs to step summary
-- uses: umutgungorr/repopulse@v1     # Forensic health gate (--fail-under 80)
-- uses: umutgungorr/envdoctor@v1     # .env contract integrity & drift linter
+---
+
+## PRODUCTS & EXPERIMENTS
+
+<a href="https://github.com/umutgungorr/chronoflow">
+<img src="./assets/chronoflow.svg" width="100%" alt="ChronoFlow — local-first daily planning application"/>
+</a>
+
+### ChronoFlow
+
+A local-first daily planning experience built around focus, simplicity, and control.
+
+| LOCAL-FIRST | OPTIONAL SYNC | TESTED CORE |
+|:---:|:---:|:---:|
+| Core experience without requiring an account | Optional Supabase synchronization | Core planning logic tested with Vitest |
+
+<br/>
+
+<a href="https://github.com/umutgungorr/cvera">
+<img src="./assets/cvera.svg" width="100%" alt="CVera — privacy-conscious resume matcher"/>
+</a>
+
+### CVera
+
+A privacy-conscious resume-to-job matching tool designed to make matching results clear and explainable.
+
+| PRIVACY | EXPLAINABILITY | INPUT VALIDATION |
+|:---:|:---:|:---:|
+| In-memory document processing | Visible matched and missing requirements | Defensive file and input checks |
+
+<div align="center">
+
+<a href="https://github.com/umutgungorr/cvera/actions/workflows/ci.yml">
+<img src="https://img.shields.io/github/actions/workflow/status/umutgungorr/cvera/ci.yml?branch=main&style=flat-square&label=CVera%20CI" alt="CVera CI status"/>
+</a>
+
+</div>
+
+---
+
+## GITHUB ACTIVITY
+
+<div align="center">
+
+<a href="https://github.com/umutgungorr">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=umutgungorr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFFB2&icon_color=7CFFB2&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/umutgungorr">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutgungorr&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFFB2&text_color=C9D1D9" alt="Most used languages"/>
+</a>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=umutgungorr&hide_border=true&background=0D1117&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=718096" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## ENGINEERING PRINCIPLES
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**01**
+
+Simplicity
+
+</td>
+<td align="center" width="25%">
+
+**02**
+
+Reliability
+
+</td>
+<td align="center" width="25%">
+
+**03**
+
+Privacy
+
+</td>
+<td align="center" width="25%">
+
+**04**
+
+Purpose
+
+</td>
+</tr>
+</table>
+
+<sub>Build useful things. Reduce unnecessary complexity. Keep improving.</sub>
+
+</div>
+
+---
+
+## LET'S CONNECT
+
+<div align="center">
+
+**Have an interesting problem? Let's build something useful.**
+
+<br/>
+
+<a href="https://umutgungorr.com/">
+<img src="https://img.shields.io/badge/WEBSITE-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=7CFFB2" alt="Website"/>
+</a>
+<a href="mailto:contact.umutgungor@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0B0F14?style=for-the-badge&logo=gmail&logoColor=7CFFB2" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/umut-gungor/">
+<img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=7CFFB2" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/last-commit/umutgungorr/umutgungorr?style=flat-square&color=7CFFB2&label=PROFILE%20UPDATED" alt="Last profile update"/>
+
+<br/><br/>
+
+<sub>DESIGNED WITH INTENTION · BUILT WITH CURIOSITY</sub>
+
+</div>
