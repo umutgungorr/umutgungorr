@@ -1,0 +1,41 @@
+<svg width="100%" height="auto" viewBox="0 0 440 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>💊 EnvDoctor — Umut Güngör</title>
+  <!-- Outer Card Frame -->
+  <rect x="1" y="1" width="438" height="158" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.5" />
+
+  <!-- Left Accent Bar -->
+  <rect x="1" y="12" width="4" height="136" rx="2" fill="#38BDF8" />
+
+  <!-- Header Row: Title &amp; Badges -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="18" y="32" font-size="16.5" font-weight="700" fill="#1F2328">💊 EnvDoctor</text>
+
+    <!-- Category Pill -->
+    <rect x="135" y="17" width="39" height="20" rx="4" fill="#082F49" stroke="#0284C7" stroke-width="1" />
+    <text x="154.5" y="31" text-anchor="middle" font-size="10" font-weight="700" fill="#7DD3FC" letter-spacing="0.5">ENV</text>
+
+    <!-- Badge 1 -->
+    <rect x="298" y="17" width="58" height="20" rx="4" fill="#EAEEF2" stroke="#D0D7DE" stroke-width="1" />
+    <text x="327.0" y="31" text-anchor="middle" font-size="10" font-weight="600" fill="#57606A">v0.2.1</text>
+
+    <!-- Badge 2 -->
+    <rect x="364" y="17" width="58" height="20" rx="4" fill="#EAEEF2" stroke="#D0D7DE" stroke-width="1" />
+    <text x="393.0" y="31" text-anchor="middle" font-size="10" font-weight="600" fill="#38BDF8">0 DEPS</text>
+  </g>
+
+  <!-- Value Proposition &amp; Fix -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="18" y="60" font-size="12" font-weight="600" fill="#24292F">.env contract linter &amp; schema synchronizer</text>
+    <text x="18" y="80" font-size="11" font-weight="400" fill="#57606A">Validates contracts against code &amp; generates masked .env.example.</text>
+  </g>
+
+  <!-- Interactive Terminal Run Bar -->
+  <rect x="18" y="104" width="404" height="36" rx="6" fill="#EAEEF2" stroke="#D0D7DE" stroke-width="1" />
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
+    <text x="30" y="126">
+      <tspan fill="#38BDF8" font-weight="600">$ </tspan>
+      <tspan fill="#1F2328">pip install envdoctor-cli</tspan>
+    </text>
+    <text x="410" y="126" text-anchor="end" fill="#6B7280" font-size="10.5">↵ install</text>
+  </g>
+</svg>

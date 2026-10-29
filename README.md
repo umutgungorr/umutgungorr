@@ -55,43 +55,67 @@
 
 ## 🚀 Featured Systems & Open-Source
 
-A curated collection of developer diagnostic tools, security scanners, and web systems:
+<p>Zero-runtime-dependency developer diagnostic systems, security engines, and local-first applications:</p>
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      🌲 <strong><a href="https://github.com/umutgungorr/porttree">PortTree</a></strong> <code>[ports]</code><br/>
-      Dev socket tree scanner &amp; Docker container unmasker. Safely kills zombie worker trees.<br/><br/>
-      <code>uvx porttree 3000</code>
+    <td width="50%" align="center">
+      <a href="https://github.com/umutgungorr/porttree">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_porttree.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/card_porttree-light.svg" />
+          <img src="./assets/card_porttree.svg" width="100%" alt="PortTree" />
+        </picture>
+      </a>
     </td>
-    <td width="50%">
-      ⚡ <strong><a href="https://github.com/umutgungorr/logshrink">LogShrink</a></strong> <code>[logs]</code><br/>
-      Terminal stream noise filter &amp; deduplicator. Auto-boxes stack traces.<br/><br/>
-      <code>uvx logshrink -- npm test</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      💊 <strong><a href="https://github.com/umutgungorr/envdoctor">EnvDoctor</a></strong> <code>[env]</code><br/>
-      <code>.env</code> contract linter, synchronizer &amp; secret-safe example generator.<br/><br/>
-      <code>pip install envdoctor-cli</code>
-    </td>
-    <td width="50%">
-      🩺 <strong><a href="https://github.com/umutgungorr/repopulse">RepoPulse</a></strong> <code>[git]</code><br/>
-      Git forensic health &amp; bus-factor knowledge silo audit engine.<br/><br/>
-      <code>pip install git-repopulse</code>
+    <td width="50%" align="center">
+      <a href="https://github.com/umutgungorr/logshrink">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_logshrink.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/card_logshrink-light.svg" />
+          <img src="./assets/card_logshrink.svg" width="100%" alt="LogShrink" />
+        </picture>
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      🛡️ <strong><a href="https://github.com/umutgungorr/tokenguard">TokenGuard</a></strong> <code>[security]</code><br/>
-      Git pre-commit secret leak scanner with native OASIS SARIF v2.1.0 output.<br/><br/>
-      <code>pip install tokenguard-cli</code>
+    <td width="50%" align="center">
+      <a href="https://github.com/umutgungorr/envdoctor">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_envdoctor.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/card_envdoctor-light.svg" />
+          <img src="./assets/card_envdoctor.svg" width="100%" alt="EnvDoctor" />
+        </picture>
+      </a>
     </td>
-    <td width="50%">
-      ⏱️ <strong><a href="https://github.com/umutgungorr/chronoflow">ChronoFlow</a></strong> <code>[local-first app]</code><br/>
-      Daily time-blocking &amp; cognitive focus scheduler with local-first sync.<br/><br/>
-      <sub>React · TypeScript · Supabase</sub>
+    <td width="50%" align="center">
+      <a href="https://github.com/umutgungorr/repopulse">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_repopulse.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/card_repopulse-light.svg" />
+          <img src="./assets/card_repopulse.svg" width="100%" alt="RepoPulse" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/umutgungorr/tokenguard">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_tokenguard.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/card_tokenguard-light.svg" />
+          <img src="./assets/card_tokenguard.svg" width="100%" alt="TokenGuard" />
+        </picture>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/umutgungorr/chronoflow">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_chronoflow.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/card_chronoflow-light.svg" />
+          <img src="./assets/card_chronoflow.svg" width="100%" alt="ChronoFlow" />
+        </picture>
+      </a>
     </td>
   </tr>
 </table>
@@ -109,6 +133,9 @@ uvx porttree free 3000 -y
 
 # 3. Deduplicate noisy CI logs and suppress repetitive healthcheck floods
 uvx logshrink -- npm test
+
+# 4. Check codebase for secret leaks with native OASIS SARIF output
+pip install tokenguard-cli && tokenguard scan
 ```
 
 ---
