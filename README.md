@@ -57,68 +57,60 @@
 
 <p>Zero-runtime-dependency developer diagnostic systems, security engines, and local-first applications:</p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/umutgungorr/porttree">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_porttree.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/card_porttree-light.svg" />
-          <img src="./assets/card_porttree.svg" width="100%" alt="PortTree" />
-        </picture>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/umutgungorr/logshrink">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_logshrink.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/card_logshrink-light.svg" />
-          <img src="./assets/card_logshrink.svg" width="100%" alt="LogShrink" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/umutgungorr/envdoctor">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_envdoctor.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/card_envdoctor-light.svg" />
-          <img src="./assets/card_envdoctor.svg" width="100%" alt="EnvDoctor" />
-        </picture>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/umutgungorr/repopulse">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_repopulse.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/card_repopulse-light.svg" />
-          <img src="./assets/card_repopulse.svg" width="100%" alt="RepoPulse" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/umutgungorr/tokenguard">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_tokenguard.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/card_tokenguard-light.svg" />
-          <img src="./assets/card_tokenguard.svg" width="100%" alt="TokenGuard" />
-        </picture>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/umutgungorr/chronoflow">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/card_chronoflow.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/card_chronoflow-light.svg" />
-          <img src="./assets/card_chronoflow.svg" width="100%" alt="ChronoFlow" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<p align="center">
+  <a href="https://github.com/umutgungorr/porttree">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card_porttree.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card_porttree-light.svg" />
+      <img src="./assets/card_porttree.svg" width="49%" alt="PortTree" />
+    </picture>
+  </a>
+  <a href="https://github.com/umutgungorr/logshrink">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card_logshrink.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card_logshrink-light.svg" />
+      <img src="./assets/card_logshrink.svg" width="49%" alt="LogShrink" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/umutgungorr/envdoctor">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card_envdoctor.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card_envdoctor-light.svg" />
+      <img src="./assets/card_envdoctor.svg" width="49%" alt="EnvDoctor" />
+    </picture>
+  </a>
+  <a href="https://github.com/umutgungorr/repopulse">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card_repopulse.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card_repopulse-light.svg" />
+      <img src="./assets/card_repopulse.svg" width="49%" alt="RepoPulse" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/umutgungorr/tokenguard">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card_tokenguard.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card_tokenguard-light.svg" />
+      <img src="./assets/card_tokenguard.svg" width="49%" alt="TokenGuard" />
+    </picture>
+  </a>
+  <a href="https://github.com/umutgungorr/chronoflow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card_chronoflow.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card_chronoflow-light.svg" />
+      <img src="./assets/card_chronoflow.svg" width="49%" alt="ChronoFlow" />
+    </picture>
+  </a>
+</p>
+
+</div>
 
 ---
 
