@@ -191,6 +191,91 @@ A complementary suite of zero-runtime-dependency security scanners, linters, and
 
 <sub>Open to focused engineering collaborations, ambitious developer tooling ideas, and high-impact teams.</sub>
 
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:080B12,50:101827,100:17102B&text=UMUT%20G%C3%9CNG%C3%96R&fontSize=42&fontColor=F1F5F9&fontAlignY=43&desc=PRODUCT%20ENGINEERING%20%2F%20FULL-STACK%20DEVELOPER&descSize=12&descAlignY=67&animation=fadeIn" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=8B9FFF&center=true&vCenter=true&width=540&lines=Building+useful+software.;Designing+clean+interfaces.;Turning+ideas+into+working+products.;Build.+Test.+Refine." alt="Animated developer introduction" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_BUILDING-111827?style=flat-square&labelColor=111827&color=8B9FFF" />
+<img src="https://img.shields.io/badge/FOCUS-WEB_DEVELOPMENT-111827?style=flat-square&labelColor=111827&color=BC8CFF" />
+<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS_LEARNING-111827?style=flat-square&labelColor=111827&color=55D6BE" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### `01` / ABOUT
+
+I'm a developer interested in building useful, reliable, and well-designed digital products.
+
+- Developing web applications
+- Exploring full-stack technologies
+- Improving UI, usability, and performance
+- Learning by building real projects
+
+</td>
+<td width="42%" valign="top">
+
+### `02` / CURRENT SYSTEM
+
+```text
+USER      / umut
+MODE      / BUILD
+INTEREST  / ENGINEERING
+PRINCIPLE / KEEP IT USEFUL
+```
+
+**Current objective**
+
+Turning ideas into practical software, one iteration at a time.
+
+</td>
+</tr>
+</table>
+
+### `03` / TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode&theme=dark" />
+
+</div>
+
+### `04` / GITHUB ACTIVITY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=080B12&title_color=8B9FFF&text_color=CBD5E1&icon_color=BC8CFF&ring_color=8B9FFF" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=080B12&title_color=8B9FFF&text_color=CBD5E1" />
+
+</div>
+
+### `05` / THE PROCESS
+
+<div align="center">
+
+`IDEA` &nbsp; → &nbsp; `DESIGN` &nbsp; → &nbsp; `BUILD` &nbsp; → &nbsp; `REFINE`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B9FFF,50:BC8CFF,100:55D6BE" />
+
+<sub>ENGINEERED WITH CURIOSITY · IMPROVED THROUGH ITERATION</sub>
+
+</div>
+
+
 </div>
 
 ---
