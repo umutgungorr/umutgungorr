@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 330" width="100%" height="auto">
+  <defs>
+    <!-- Yellow Neon Glow Filter -->
+    <filter id="ecgGlow" x="-30%" y="-40%" width="160%" height="180%">
+      <feGaussianBlur stdDeviation="3.5" result="blur1" />
+      <feGaussianBlur stdDeviation="1.5" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur1" />
+        <feMergeNode in="blur2" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .pulse-anim { animation: none; }
+    }
+  </style>
+
+  <!-- Terminal Window Background -->
+  <rect x="1" y="1" width="778" height="328" rx="14" fill="#0D0D11" stroke="#22252D" stroke-width="1.5" />
+
+  <!-- Mac Window Dots -->
+  <circle cx="26" cy="16" r="4.5" fill="#FF5F57" />
+  <circle cx="42" cy="16" r="4.5" fill="#FEBC2E" />
+  <circle cx="58" cy="16" r="4.5" fill="#28C840" />
+
+  <!-- Window Header Title -->
+  <text x="390" y="19" text-anchor="middle" fill="#6E7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="0.5">identity.log</text>
+
+  <!-- Prompt $ whoami -->
+  <text x="28" y="58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600">
+    <tspan fill="#F59E0B">$ </tspan>
+    <tspan fill="#F0F6FC">whoami</tspan>
+  </text>
+
+  <!-- Big Headline: Umut Güngör -->
+  <text x="28" y="132" fill="#FFFFFF" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="54" font-weight="900" letter-spacing="-1.5">Umut Güngör</text>
+
+  <!-- Log Info Lines -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5">
+    <!-- Line 1 -->
+    <text x="30" y="167">
+      <tspan fill="#58A6FF" font-weight="500">1  </tspan>
+      <tspan fill="#58A6FF" font-weight="600">info  </tspan>
+      <tspan fill="#8B949E">role     </tspan>
+      <tspan fill="#F0F6FC">software engineer, developer tooling</tspan>
+    </text>
+
+    <!-- Line 2 -->
+    <text x="30" y="189">
+      <tspan fill="#58A6FF" font-weight="500">2  </tspan>
+      <tspan fill="#3FB950" font-weight="600">ok    </tspan>
+      <tspan fill="#8B949E">shipped  </tspan>
+      <tspan fill="#F0F6FC">7 CLI tools, 0 runtime dependencies</tspan>
+    </text>
+
+    <!-- Line 3 -->
+    <text x="30" y="211">
+      <tspan fill="#58A6FF" font-weight="500">3  </tspan>
+      <tspan fill="#3FB950" font-weight="600">ok    </tspan>
+      <tspan fill="#8B949E">status   </tspan>
+      <tspan fill="#F0F6FC">open to collaboration</tspan>
+    </text>
+
+    <!-- Line 4 (Prompt + Blinking Cursor) -->
+    <text x="30" y="235">
+      <tspan fill="#F59E0B" font-weight="600">$ </tspan>
+    </text>
+    <rect x="44" y="224" width="7" height="13.5" fill="#F0F6FC">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- ECG Heartbeat Base Track (Muted Dark Gray Line) -->
+  <path d="M 20,268 L 152,268 L 162,241 L 170,281 L 180,268 L 284,268 L 294,241 L 302,281 L 312,268 L 416,268 L 426,241 L 434,281 L 444,268 L 548,268 L 558,241 L 566,281 L 576,268 L 740,268" 
+        fill="none" 
+        stroke="#282C35" 
+        stroke-width="1.8" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" />
+
+  <!-- Animated Yellow Glow Pulse (Outer Glow Layer) -->
+  <path class="pulse-anim" 
+        d="M 20,268 L 152,268 L 162,241 L 170,281 L 180,268 L 284,268 L 294,241 L 302,281 L 312,268 L 416,268 L 426,241 L 434,281 L 444,268 L 548,268 L 558,241 L 566,281 L 576,268 L 740,268" 
+        fill="none" 
+        stroke="#F59E0B" 
+        stroke-width="4.5" 
+        stroke-opacity="0.45"
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        filter="url(#ecgGlow)"
+        pathLength="1000"
+        stroke-dasharray="90 910">
+    <animate attributeName="stroke-dashoffset" values="90;-910" dur="3.2s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Animated Yellow Glow Pulse (Main Body Layer) -->
+  <path class="pulse-anim" 
+        d="M 20,268 L 152,268 L 162,241 L 170,281 L 180,268 L 284,268 L 294,241 L 302,281 L 312,268 L 416,268 L 426,241 L 434,281 L 444,268 L 548,268 L 558,241 L 566,281 L 576,268 L 740,268" 
+        fill="none" 
+        stroke="#FBBF24" 
+        stroke-width="2.6" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        filter="url(#ecgGlow)"
+        pathLength="1000"
+        stroke-dasharray="90 910">
+    <animate attributeName="stroke-dashoffset" values="90;-910" dur="3.2s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Animated Yellow Glow Pulse (Hot White Center Core) -->
+  <path class="pulse-anim" 
+        d="M 20,268 L 152,268 L 162,241 L 170,281 L 180,268 L 284,268 L 294,241 L 302,281 L 312,268 L 416,268 L 426,241 L 434,281 L 444,268 L 548,268 L 558,241 L 566,281 L 576,268 L 740,268" 
+        fill="none" 
+        stroke="#FFFBEB" 
+        stroke-width="1.2" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        pathLength="1000"
+        stroke-dasharray="90 910">
+    <animate attributeName="stroke-dashoffset" values="90;-910" dur="3.2s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Category Labels Below Spikes -->
+  <text x="166" y="298" text-anchor="middle" fill="#6E7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="0.5">ports</text>
+  <text x="298" y="298" text-anchor="middle" fill="#6E7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="0.5">logs</text>
+  <text x="430" y="298" text-anchor="middle" fill="#6E7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="0.5">env</text>
+  <text x="562" y="298" text-anchor="middle" fill="#6E7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="0.5">git</text>
+</svg>
