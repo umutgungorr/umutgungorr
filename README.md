@@ -114,46 +114,42 @@
 
 ---
 
-### 💻 Instant Zero-Install Quickstart
+## 🤖 Drop-In CI/CD Quality Gate
 
-```bash
-# 1. Unmask Docker proxies and inspect who holds port 3000
-uvx porttree 3000
+Integrate automated secret scanning, environment contract linting, and documentation verification into your GitHub Actions workflow:
 
-# 2. Terminate an entire zombie process tree holding port 3000
-uvx porttree free 3000 -y
+```yaml
+# .github/workflows/quality-gate.yml
+name: Quality Gate
+on: [push, pull_request]
 
-# 3. Deduplicate noisy CI logs and suppress repetitive healthcheck floods
-uvx logshrink -- npm test
-
-# 4. Check codebase for secret leaks with native OASIS SARIF output
-pip install tokenguard-cli && tokenguard scan
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: umutgungorr/tokenguard@v1     # 🛡️ Secret leak scanner with native SARIF report
+      - uses: umutgungorr/envdoctor@v1      # 💊 .env contract & schema drift auditor
+      - uses: umutgungorr/deadlinkfinder@v1 # 🔗 Documentation link & heading anchor verifier
 ```
 
 ---
 
-## 🇹🇷 Umut Güngör Kimdir?
-
-Umut Güngör, **TypeScript**, **React** ve **Python** ile modern web sistemleri, AI araçları ve açık kaynak developer araçları geliştiren **Yazılım Mühendisidir**.
-
-* 🌐 **Web Sitesi**: [umutgungorr.com](https://umutgungorr.com/)
-* 📄 **Özgeçmiş &amp; Projeler**: [umutgungorr.com/about](https://umutgungorr.com/about)
-* 📦 **PyPI Paketleri**: [pypi.org/user/umutgngr](https://pypi.org/user/umutgngr/)
-* 🧩 **GitHub Marketplace**: [umutgungorr Actions](https://github.com/marketplace?type=actions&query=umutgungorr)
-
----
-
-## 📬 Connect & Collaborate
+## 📬 About & Connect
 
 <div align="center">
 
-**Open to focused engineering collaborations, ambitious developer tooling ideas, and high-impact teams.**
+Product-minded **Software Engineer** specializing in zero-runtime-dependency developer tools, static AST analysis, and local-first reactive systems with **TypeScript**, **Python**, and **React**.
 
 <br/>
 
-[![Website](https://img.shields.io/badge/WEBSITE-umutgungorr.com-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d11)](https://umutgungorr.com/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-in%2Fumut--gungor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d11)](https://www.linkedin.com/in/umut-gungor/)
-[![Email](https://img.shields.io/badge/EMAIL-contact.umutgungor%40gmail.com-2f81f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d11)](mailto:contact.umutgungor@gmail.com)
-[![PyPI](https://img.shields.io/badge/PYPI-umutgngr-3775A9?style=for-the-badge&logo=pypi&logoColor=white&labelColor=0d0d11)](https://pypi.org/user/umutgngr/)
+[![Website](https://img.shields.io/badge/Website-umutgungorr.com-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d11)](https://umutgungorr.com/)
+[![Resume & Work](https://img.shields.io/badge/Resume-umutgungorr.com%2Fabout-58a6ff?style=for-the-badge&logo=readme&logoColor=white&labelColor=0d0d11)](https://umutgungorr.com/about)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fumut--gungor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d11)](https://www.linkedin.com/in/umut-gungor/)
+[![Email](https://img.shields.io/badge/Email-contact.umutgungor%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d11)](mailto:contact.umutgungor@gmail.com)
+
+<br/><br/>
+
+<sub>Open to high-impact software engineering roles, ambitious developer tooling, and core systems architecture.</sub>
 
 </div>
