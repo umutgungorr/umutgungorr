@@ -191,22 +191,9 @@ A complementary suite of zero-runtime-dependency security scanners, linters, and
 
 <sub>Open to focused engineering collaborations, ambitious developer tooling ideas, and high-impact teams.</sub>
 
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:080B12,50:101827,100:17102B&text=UMUT%20G%C3%9CNG%C3%96R&fontSize=42&fontColor=F1F5F9&fontAlignY=43&desc=PRODUCT%20ENGINEERING%20%2F%20FULL-STACK%20DEVELOPER&descSize=12&descAlignY=67&animation=fadeIn" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=8B9FFF&center=true&vCenter=true&width=540&lines=Building+useful+software.;Designing+clean+interfaces.;Turning+ideas+into+working+products.;Build.+Test.+Refine." alt="Animated developer introduction" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_BUILDING-111827?style=flat-square&labelColor=111827&color=8B9FFF" />
-<img src="https://img.shields.io/badge/FOCUS-WEB_DEVELOPMENT-111827?style=flat-square&labelColor=111827&color=BC8CFF" />
-<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS_LEARNING-111827?style=flat-square&labelColor=111827&color=55D6BE" />
-
 </div>
+
+---
 
 ### Umut Güngör Kimdir?
 Umut Güngör, TypeScript, React ve Python ile modern web sistemleri, AI araçları ve açık kaynak araçlar geliştiren Yazılım Mühendisidir.
