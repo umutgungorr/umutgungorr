@@ -64,14 +64,14 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/card_porttree.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/card_porttree-light.svg" />
-      <img src="./assets/card_porttree.svg" width="49%" alt="PortTree" />
+      <img src="./assets/card_porttree.svg" width="48.8%" alt="PortTree" />
     </picture>
   </a>
   <a href="https://github.com/umutgungorr/logshrink">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/card_logshrink.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/card_logshrink-light.svg" />
-      <img src="./assets/card_logshrink.svg" width="49%" alt="LogShrink" />
+      <img src="./assets/card_logshrink.svg" width="48.8%" alt="LogShrink" />
     </picture>
   </a>
 </p>
@@ -81,14 +81,14 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/card_envdoctor.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/card_envdoctor-light.svg" />
-      <img src="./assets/card_envdoctor.svg" width="49%" alt="EnvDoctor" />
+      <img src="./assets/card_envdoctor.svg" width="48.8%" alt="EnvDoctor" />
     </picture>
   </a>
   <a href="https://github.com/umutgungorr/repopulse">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/card_repopulse.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/card_repopulse-light.svg" />
-      <img src="./assets/card_repopulse.svg" width="49%" alt="RepoPulse" />
+      <img src="./assets/card_repopulse.svg" width="48.8%" alt="RepoPulse" />
     </picture>
   </a>
 </p>
@@ -98,14 +98,14 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/card_tokenguard.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/card_tokenguard-light.svg" />
-      <img src="./assets/card_tokenguard.svg" width="49%" alt="TokenGuard" />
+      <img src="./assets/card_tokenguard.svg" width="48.8%" alt="TokenGuard" />
     </picture>
   </a>
   <a href="https://github.com/umutgungorr/chronoflow">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/card_chronoflow.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/card_chronoflow-light.svg" />
-      <img src="./assets/card_chronoflow.svg" width="49%" alt="ChronoFlow" />
+      <img src="./assets/card_chronoflow.svg" width="48.8%" alt="ChronoFlow" />
     </picture>
   </a>
 </p>

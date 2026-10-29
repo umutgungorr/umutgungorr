@@ -1,41 +1,45 @@
-<svg width="100%" height="auto" viewBox="0 0 440 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="auto" viewBox="0 0 440 180" fill="none" xmlns="http://www.w3.org/2000/svg">
   <title>⏱️ ChronoFlow — Umut Güngör</title>
-  <!-- Outer Card Frame -->
-  <rect x="1" y="1" width="438" height="158" rx="10" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.5" />
+  
+  <!-- Outer Card Frame (with built-in 4px margin so adjacent cards have clean breathing room) -->
+  <rect x="4" y="4" width="432" height="172" rx="12" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.5" />
 
   <!-- Left Accent Bar -->
-  <rect x="1" y="12" width="4" height="136" rx="2" fill="#6366F1" />
+  <rect x="4" y="16" width="4.5" height="148" rx="2" fill="#6366F1" />
 
-  <!-- Header Row: Title &amp; Badges -->
+  <!-- Row 1: Category Eyebrow Pill on Left, Badges on Right -->
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
-    <text x="18" y="32" font-size="16.5" font-weight="700" fill="#1F2328">⏱️ ChronoFlow</text>
-
     <!-- Category Pill -->
-    <rect x="135" y="17" width="95" height="20" rx="4" fill="#1E1B4B" stroke="#4338CA" stroke-width="1" />
-    <text x="182.5" y="31" text-anchor="middle" font-size="10" font-weight="700" fill="#A5B4FC" letter-spacing="0.5">LOCAL-FIRST</text>
+    <rect x="22" y="16" width="95" height="20" rx="4" fill="#1E1B4B" stroke="#4338CA" stroke-width="1" />
+    <text x="69.5" y="30" text-anchor="middle" font-size="10" font-weight="700" fill="#A5B4FC" letter-spacing="0.5">LOCAL-FIRST</text>
 
     <!-- Badge 1 -->
-    <rect x="277" y="17" width="72" height="20" rx="4" fill="#EAEEF2" stroke="#D0D7DE" stroke-width="1" />
-    <text x="313.0" y="31" text-anchor="middle" font-size="10" font-weight="600" fill="#57606A">REACT 19</text>
+    <rect x="271" y="16" width="72" height="20" rx="4" fill="#EAEEF2" stroke="#D0D7DE" stroke-width="1" />
+    <text x="307.0" y="30" text-anchor="middle" font-size="10" font-weight="600" fill="#57606A">REACT 19</text>
 
     <!-- Badge 2 -->
-    <rect x="357" y="17" width="65" height="20" rx="4" fill="#EAEEF2" stroke="#D0D7DE" stroke-width="1" />
-    <text x="389.5" y="31" text-anchor="middle" font-size="10" font-weight="600" fill="#6366F1">OFFLINE</text>
+    <rect x="351" y="16" width="65" height="20" rx="4" fill="#EAEEF2" stroke="#D0D7DE" stroke-width="1" />
+    <text x="383.5" y="30" text-anchor="middle" font-size="10" font-weight="600" fill="#6366F1">OFFLINE</text>
   </g>
 
-  <!-- Value Proposition &amp; Fix -->
+  <!-- Row 2: Prominent Title with 100% Zero-Collision Breathing Room -->
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
-    <text x="18" y="60" font-size="12" font-weight="600" fill="#24292F">Daily time-blocking &amp; cognitive focus scheduler</text>
-    <text x="18" y="80" font-size="11" font-weight="400" fill="#57606A">Structured flow planning with client state machines &amp; zero cloud lock-in.</text>
+    <text x="22" y="66" font-size="18.5" font-weight="700" fill="#1F2328">⏱️ ChronoFlow</text>
   </g>
 
-  <!-- Interactive Terminal Run Bar -->
-  <rect x="18" y="104" width="404" height="36" rx="6" fill="#EAEEF2" stroke="#D0D7DE" stroke-width="1" />
+  <!-- Row 3: Value Proposition & Description -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="22" y="89" font-size="12" font-weight="600" fill="#24292F">Daily time-blocking &amp; cognitive focus scheduler</text>
+    <text x="22" y="108" font-size="11" font-weight="400" fill="#57606A">Structured flow planning with client state machines &amp; zero cloud lock-in.</text>
+  </g>
+
+  <!-- Row 4: Terminal Command Runner Bar -->
+  <rect x="20" y="126" width="400" height="36" rx="6" fill="#EAEEF2" stroke="#D0D7DE" stroke-width="1" />
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
-    <text x="30" y="126">
+    <text x="32" y="148">
       <tspan fill="#6366F1" font-weight="600">⚡ </tspan>
       <tspan fill="#1F2328">React 19 · TypeScript · Supabase</tspan>
     </text>
-    <text x="410" y="126" text-anchor="end" fill="#6B7280" font-size="10.5">arch</text>
+    <text x="406" y="148" text-anchor="end" fill="#6B7280" font-size="10.5">arch</text>
   </g>
 </svg>

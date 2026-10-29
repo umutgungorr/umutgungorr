@@ -1,41 +1,45 @@
-<svg width="100%" height="auto" viewBox="0 0 440 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="auto" viewBox="0 0 440 180" fill="none" xmlns="http://www.w3.org/2000/svg">
   <title>🛡️ TokenGuard — Umut Güngör</title>
-  <!-- Outer Card Frame -->
-  <rect x="1" y="1" width="438" height="158" rx="10" fill="#0A0C10" stroke="#22252D" stroke-width="1.5" />
+  
+  <!-- Outer Card Frame (with built-in 4px margin so adjacent cards have clean breathing room) -->
+  <rect x="4" y="4" width="432" height="172" rx="12" fill="#0A0C10" stroke="#22252D" stroke-width="1.5" />
 
   <!-- Left Accent Bar -->
-  <rect x="1" y="12" width="4" height="136" rx="2" fill="#F43F5E" />
+  <rect x="4" y="16" width="4.5" height="148" rx="2" fill="#F43F5E" />
 
-  <!-- Header Row: Title &amp; Badges -->
+  <!-- Row 1: Category Eyebrow Pill on Left, Badges on Right -->
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
-    <text x="18" y="32" font-size="16.5" font-weight="700" fill="#FFFFFF">🛡️ TokenGuard</text>
-
     <!-- Category Pill -->
-    <rect x="135" y="17" width="74" height="20" rx="4" fill="#4C0519" stroke="#BE123C" stroke-width="1" />
-    <text x="172.0" y="31" text-anchor="middle" font-size="10" font-weight="700" fill="#FDA4AF" letter-spacing="0.5">SECURITY</text>
+    <rect x="22" y="16" width="74" height="20" rx="4" fill="#4C0519" stroke="#BE123C" stroke-width="1" />
+    <text x="59.0" y="30" text-anchor="middle" font-size="10" font-weight="700" fill="#FDA4AF" letter-spacing="0.5">SECURITY</text>
 
     <!-- Badge 1 -->
-    <rect x="256" y="17" width="58" height="20" rx="4" fill="#1F2937" stroke="#374151" stroke-width="1" />
-    <text x="285.0" y="31" text-anchor="middle" font-size="10" font-weight="600" fill="#D1D5DB">v0.2.1</text>
+    <rect x="250" y="16" width="58" height="20" rx="4" fill="#1F2937" stroke="#374151" stroke-width="1" />
+    <text x="279.0" y="30" text-anchor="middle" font-size="10" font-weight="600" fill="#D1D5DB">v0.2.1</text>
 
     <!-- Badge 2 -->
-    <rect x="322" y="17" width="100" height="20" rx="4" fill="#1F2937" stroke="#374151" stroke-width="1" />
-    <text x="372.0" y="31" text-anchor="middle" font-size="10" font-weight="600" fill="#F43F5E">SARIF v2.1.0</text>
+    <rect x="316" y="16" width="100" height="20" rx="4" fill="#1F2937" stroke="#374151" stroke-width="1" />
+    <text x="366.0" y="30" text-anchor="middle" font-size="10" font-weight="600" fill="#F43F5E">SARIF v2.1.0</text>
   </g>
 
-  <!-- Value Proposition &amp; Fix -->
+  <!-- Row 2: Prominent Title with 100% Zero-Collision Breathing Room -->
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
-    <text x="18" y="60" font-size="12" font-weight="600" fill="#F3F4F6">Pre-commit secret leak &amp; API token scanner</text>
-    <text x="18" y="80" font-size="11" font-weight="400" fill="#9CA3AF">Blocks high-entropy keys with native OASIS SARIF report output.</text>
+    <text x="22" y="66" font-size="18.5" font-weight="700" fill="#FFFFFF">🛡️ TokenGuard</text>
   </g>
 
-  <!-- Interactive Terminal Run Bar -->
-  <rect x="18" y="104" width="404" height="36" rx="6" fill="#11141B" stroke="#1F242D" stroke-width="1" />
+  <!-- Row 3: Value Proposition & Description -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="22" y="89" font-size="12" font-weight="600" fill="#F3F4F6">Pre-commit secret leak &amp; API token scanner</text>
+    <text x="22" y="108" font-size="11" font-weight="400" fill="#9CA3AF">Blocks high-entropy keys with native OASIS SARIF report output.</text>
+  </g>
+
+  <!-- Row 4: Terminal Command Runner Bar -->
+  <rect x="20" y="126" width="400" height="36" rx="6" fill="#11141B" stroke="#1F242D" stroke-width="1" />
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
-    <text x="30" y="126">
+    <text x="32" y="148">
       <tspan fill="#F43F5E" font-weight="600">$ </tspan>
       <tspan fill="#E5E7EB">pip install tokenguard-cli</tspan>
     </text>
-    <text x="410" y="126" text-anchor="end" fill="#6B7280" font-size="10.5">↵ install</text>
+    <text x="406" y="148" text-anchor="end" fill="#6B7280" font-size="10.5">↵ install</text>
   </g>
 </svg>
