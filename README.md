@@ -5,29 +5,20 @@
 
 <br/><br/>
 
-<!-- Classic Whoami Signal Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
-  <img src="./assets/terminal.svg" width="100%" alt="Umut Güngör — whoami --signal" />
-</picture>
-
-<br/><br/>
-
 <!-- Sleek Quick-Nav Action Pills -->
 <p align="center">
   <a href="https://umutgungorr.com/"><img src="https://img.shields.io/badge/Website-umutgungorr.com-2ea44f?style=flat-square&logo=googlechrome&logoColor=white&labelColor=161b22" alt="Website" /></a>
-  <a href="https://umutgungorr.com/about"><img src="https://img.shields.io/badge/About%20&%20Work-umutgungorr.com%2Fabout-58a6ff?style=flat-square&logo=readme&logoColor=white&labelColor=161b22" alt="About & Work" /></a>
-  <a href="https://pypi.org/user/umutgngr/"><img src="https://img.shields.io/badge/PyPI-6%20Packages%20Live-3775a9?style=flat-square&logo=pypi&logoColor=white&labelColor=161b22" alt="PyPI" /></a>
-  <a href="https://github.com/marketplace?type=actions&query=umutgungorr"><img src="https://img.shields.io/badge/Marketplace-4%20Actions%20Live-bc8cff?style=flat-square&logo=githubactions&logoColor=white&labelColor=161b22" alt="Marketplace" /></a>
+  <a href="https://umutgungorr.com/about"><img src="https://img.shields.io/badge/About-umutgungorr.com%2Fabout-58a6ff?style=flat-square&logo=readme&logoColor=white&labelColor=161b22" alt="About" /></a>
+  <a href="https://pypi.org/user/umutgngr/"><img src="https://img.shields.io/badge/PyPI-6%20Packages-3775a9?style=flat-square&logo=pypi&logoColor=white&labelColor=161b22" alt="PyPI" /></a>
+  <a href="https://github.com/marketplace?type=actions&query=umutgungorr"><img src="https://img.shields.io/badge/Marketplace-4%20Actions-bc8cff?style=flat-square&logo=githubactions&logoColor=white&labelColor=161b22" alt="Marketplace" /></a>
 </p>
 
 <!-- Engineering Architecture & Quality Standards -->
 <p align="center">
-  <a href="https://github.com/umutgungorr?tab=repositories"><img src="https://img.shields.io/badge/Architecture-Zero%20Runtime%20Dependencies-2ea44f?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=161b22" alt="Zero Dependencies" /></a>
-  <a href="https://github.com/umutgungorr"><img src="https://img.shields.io/badge/Test%20Suites-100%25%20Passing-brightgreen?style=flat-square&logo=pytest&logoColor=white&labelColor=161b22" alt="100% Passing" /></a>
-  <a href="https://docs.oasis-open.org/sarif/sarif/v2.1.0/sarif-v2.1.0.html"><img src="https://img.shields.io/badge/Security-Native%20SARIF%20v2.1.0-orange?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="SARIF" /></a>
-  <a href="https://github.com/umutgungorr"><img src="https://img.shields.io/badge/Platform-Linux%20%E2%80%A2%20macOS%20%E2%80%A2%20Windows-388bfd?style=flat-square&logo=linux&logoColor=white&labelColor=161b22" alt="Cross-Platform" /></a>
+  <a href="https://github.com/umutgungorr?tab=repositories"><img src="https://img.shields.io/badge/Architecture-0%20Dependencies-2ea44f?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=161b22" alt="Zero Dependencies" /></a>
+  <a href="https://github.com/umutgungorr"><img src="https://img.shields.io/badge/Tests-100%25%20Passing-brightgreen?style=flat-square&logo=pytest&logoColor=white&labelColor=161b22" alt="100% Passing" /></a>
+  <a href="https://docs.oasis-open.org/sarif/sarif/v2.1.0/sarif-v2.1.0.html"><img src="https://img.shields.io/badge/Security-SARIF%20v2.1.0-orange?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="SARIF" /></a>
+  <a href="https://github.com/umutgungorr"><img src="https://img.shields.io/badge/Platform-Cross--Platform-388bfd?style=flat-square&logo=linux&logoColor=white&labelColor=161b22" alt="Cross-Platform" /></a>
 </p>
 
 </div>
