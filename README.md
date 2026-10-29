@@ -25,6 +25,20 @@
 
 ---
 
+## 👤 `whoami --signal`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
+  <img src="./assets/terminal.svg" width="100%" alt="Umut Güngör — whoami --signal" />
+</picture>
+
+</div>
+
+---
+
 ## ⚡ The 4 Diagnostic Pillars
 
 The heartbeat waveform above maps to 4 zero-dependency developer diagnostic systems:
