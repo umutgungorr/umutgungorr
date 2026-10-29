@@ -5,6 +5,15 @@
 
 <br/><br/>
 
+<!-- Classic Whoami Signal Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
+  <img src="./assets/terminal.svg" width="100%" alt="Umut Güngör — whoami --signal" />
+</picture>
+
+<br/><br/>
+
 <p align="center">
   <a href="https://umutgungorr.com/"><strong>🌐 umutgungorr.com</strong></a> • 
   <a href="https://umutgungorr.com/about"><strong>📄 Özgeçmiş &amp; Projeler</strong></a> • 
