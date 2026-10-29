@@ -41,32 +41,15 @@
 
 ## 🛠️ Tech Stack & Systems Architecture
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <strong>⚡ Systems &amp; Core Runtimes</strong><br /><br />
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,py,nodejs,bash,linux" alt="Core Systems" /></a><br /><br />
-      <sub>TypeScript · Python (Stdlib &amp; AST) · Node.js · Bash · Linux Internals</sub>
-    </td>
-    <td width="50%" align="center">
-      <strong>🎨 Modern Web &amp; Applications</strong><br /><br />
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,electron,astro" alt="Modern Web" /></a><br /><br />
-      <sub>React · Next.js (App Router) · Tailwind CSS · Electron · Astro</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <strong>🗄️ Backend, Cloud &amp; Storage</strong><br /><br />
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,fastapi" alt="Backend & Cloud" /></a><br /><br />
-      <sub>PostgreSQL · Redis Caching · Supabase · Docker · FastAPI</sub>
-    </td>
-    <td width="50%" align="center">
-      <strong>🛡️ DevOps, Security &amp; Quality</strong><br /><br />
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions,git,vscode,vite,jest" alt="DevOps & Quality" /></a><br /><br />
-      <sub>GitHub Actions CI/CD · Git · VS Code · Vitest · Pytest / SARIF</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech_stack.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/tech_stack-light.svg" />
+  <img src="./assets/tech_stack.svg" width="100%" alt="Tech Stack & Systems Architecture" />
+</picture>
+
+</div>
 
 ---
 
