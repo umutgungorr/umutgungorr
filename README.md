@@ -39,6 +39,37 @@
 
 ---
 
+## 🛠️ Tech Stack & Systems Architecture
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>⚡ Systems &amp; Core Runtimes</strong><br /><br />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,py,nodejs,bash,linux" alt="Core Systems" /></a><br /><br />
+      <sub>TypeScript · Python (Stdlib &amp; AST) · Node.js · Bash · Linux Internals</sub>
+    </td>
+    <td width="50%" align="center">
+      <strong>🎨 Modern Web &amp; Applications</strong><br /><br />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,electron,astro" alt="Modern Web" /></a><br /><br />
+      <sub>React · Next.js (App Router) · Tailwind CSS · Electron · Local-First UX</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>🗄️ Backend, Cloud &amp; Storage</strong><br /><br />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker" alt="Backend & Cloud" /></a><br /><br />
+      <sub>PostgreSQL · Redis Caching · Supabase · Docker Containerization</sub>
+    </td>
+    <td width="50%" align="center">
+      <strong>🛡️ DevOps, Security &amp; Quality</strong><br /><br />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions,git,vscode" alt="DevOps & Quality" /></a><br /><br />
+      <sub>GitHub Actions CI/CD · SARIF v2.1.0 Security · Pytest · Vitest · Ruff</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ⚡ The 4 Diagnostic Pillars
 
 The heartbeat waveform above maps to 4 zero-dependency developer diagnostic systems:
@@ -100,32 +131,6 @@ uvx porttree free 3000 -y
 # 3. Deduplicate noisy CI terminal logs and suppress repetitive floods
 uvx logshrink -- npm test
 ```
-
----
-
-## 🛠️ Tech Stack & Capabilities
-
-<div align="center">
-
-<p><strong>Languages &amp; Runtimes</strong></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,bash,html,css" alt="Languages" /></a>
-
-<br /><br />
-
-<p><strong>Frontend &amp; UI Architecture</strong></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,electron" alt="Frontend" /></a>
-
-<br /><br />
-
-<p><strong>Backend, Cloud &amp; Storage</strong></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,postman" alt="Backend" /></a>
-
-<br /><br />
-
-<p><strong>DevOps, Tooling &amp; Quality</strong></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode" alt="Tooling" /></a>
-
-</div>
 
 ---
 
