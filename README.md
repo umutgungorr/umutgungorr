@@ -41,7 +41,7 @@
 
 ## 🛠️ Tech Stack & Systems Architecture
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" align="center">
       <strong>⚡ Systems &amp; Core Runtimes</strong><br /><br />
@@ -51,19 +51,19 @@
     <td width="50%" align="center">
       <strong>🎨 Modern Web &amp; Applications</strong><br /><br />
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,electron,astro" alt="Modern Web" /></a><br /><br />
-      <sub>React · Next.js (App Router) · Tailwind CSS · Electron · Local-First UX</sub>
+      <sub>React · Next.js (App Router) · Tailwind CSS · Electron · Astro</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <strong>🗄️ Backend, Cloud &amp; Storage</strong><br /><br />
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker" alt="Backend & Cloud" /></a><br /><br />
-      <sub>PostgreSQL · Redis Caching · Supabase · Docker Containerization</sub>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,fastapi" alt="Backend & Cloud" /></a><br /><br />
+      <sub>PostgreSQL · Redis Caching · Supabase · Docker · FastAPI</sub>
     </td>
     <td width="50%" align="center">
       <strong>🛡️ DevOps, Security &amp; Quality</strong><br /><br />
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions,git,vscode" alt="DevOps & Quality" /></a><br /><br />
-      <sub>GitHub Actions CI/CD · SARIF v2.1.0 Security · Pytest · Vitest · Ruff</sub>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions,git,vscode,vite,jest" alt="DevOps & Quality" /></a><br /><br />
+      <sub>GitHub Actions CI/CD · Git · VS Code · Vitest · Pytest / SARIF</sub>
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@
 
 A curated collection of developer diagnostic tools, security scanners, and web systems:
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       🌲 <strong><a href="https://github.com/umutgungorr/porttree">PortTree</a></strong> <code>[ports]</code><br/>
@@ -106,9 +106,9 @@ A curated collection of developer diagnostic tools, security scanners, and web s
       <code>pip install tokenguard-cli</code>
     </td>
     <td width="50%">
-      📡 <strong>SignalDeck</strong> <code>[local-first app]</code><br/>
-      Product research, developer telemetry &amp; signal tracking cockpit.<br/><br/>
-      <sub>React 19 · TypeScript · Supabase</sub>
+      ⏱️ <strong><a href="https://github.com/umutgungorr/chronoflow">ChronoFlow</a></strong> <code>[local-first app]</code><br/>
+      Daily time-blocking &amp; cognitive focus scheduler with local-first sync.<br/><br/>
+      <sub>React · TypeScript · Supabase</sub>
     </td>
   </tr>
 </table>
