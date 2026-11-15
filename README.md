@@ -135,6 +135,15 @@ jobs:
 
 ---
 
+## 📝 Technical Guides & Playbooks
+
+- **[How to Fix `EADDRINUSE`: Address Already in Use on Windows, Linux & Docker](https://umutgungorr.com/blog/eaddrinuse-port-conflict-fix?lang=en)** — Tracing parent/child socket trees instead of blindly killing PIDs (`PortTree`).
+- **[How to Remove Leaked API Keys and `.env` Files from Git History](https://umutgungorr.com/blog/git-filter-repo-clean-leaked-secrets?lang=en)** — Step-by-step `git filter-repo` cleanup & pre-commit prevention (`TokenGuard`).
+- **[Core Web Vitals & Lighthouse 100 in Production](https://umutgungorr.com/blog/web-performance-lighthouse-core-web-vitals?lang=en)** — Eliminating render-blocking waterfalls and layout shifts.
+- Browse all engineering notes at **[umutgungorr.com/blog](https://umutgungorr.com/blog?lang=en)** · Subscribe via **[RSS](https://umutgungorr.com/rss.xml)**
+
+---
+
 ## 📬 About & Connect
 
 <div align="center">
