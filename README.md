@@ -140,6 +140,8 @@ jobs:
 - **[How to Fix `EADDRINUSE`: Address Already in Use on Windows, Linux & Docker](https://umutgungorr.com/blog/eaddrinuse-port-conflict-fix?lang=en)** — Tracing parent/child socket trees instead of blindly killing PIDs (`PortTree`).
 - **[How to Remove Leaked API Keys and `.env` Files from Git History](https://umutgungorr.com/blog/git-filter-repo-clean-leaked-secrets?lang=en)** — Step-by-step `git filter-repo` cleanup & pre-commit prevention (`TokenGuard`).
 - **[How to Catch Missing `.env` Variables and `.env.example` Drift Before Deploy](https://umutgungorr.com/blog/env-contract-drift-envdoctor?lang=en)** — Enforcing `.env` contracts and Python AST auditing in CI (`EnvDoctor`).
+- **[How to Catch Broken Markdown Links and Dead Anchors in GitHub Actions Before Deploy](https://umutgungorr.com/blog/github-actions-broken-links-deadlinkfinder?lang=en)** — Offline Markdown & GFM anchor gating with SARIF annotations (`DeadLinkFinder`).
+- **[How to Compress Noisy CI/CD and Production Logs Without Losing Stack Traces or Exit Codes](https://umutgungorr.com/blog/debug-production-logs-logshrink?lang=en)** — Constant-memory stdout/stderr deduplication (`LogShrink`).
 - **[Core Web Vitals & Lighthouse 100 in Production](https://umutgungorr.com/blog/web-performance-lighthouse-core-web-vitals?lang=en)** — Eliminating render-blocking waterfalls and layout shifts.
 - Browse all engineering notes at **[umutgungorr.com/blog](https://umutgungorr.com/blog?lang=en)** · Subscribe via **[RSS](https://umutgungorr.com/rss.xml)**
 
