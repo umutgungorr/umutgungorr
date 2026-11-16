@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://umutgungorr.com/"><img src="https://img.shields.io/badge/Website-umutgungorr.com-2ea44f?style=flat-square&logo=googlechrome&logoColor=white&labelColor=161b22" alt="Website" /></a>
   <a href="https://umutgungorr.com/about"><img src="https://img.shields.io/badge/About-umutgungorr.com%2Fabout-58a6ff?style=flat-square&logo=readme&logoColor=white&labelColor=161b22" alt="About" /></a>
-  <a href="https://pypi.org/user/umutgngr/"><img src="https://img.shields.io/badge/PyPI-6%20Packages-3775a9?style=flat-square&logo=pypi&logoColor=white&labelColor=161b22" alt="PyPI" /></a>
-  <a href="https://github.com/marketplace?type=actions&query=umutgungorr"><img src="https://img.shields.io/badge/Marketplace-4%20Actions-bc8cff?style=flat-square&logo=githubactions&logoColor=white&labelColor=161b22" alt="Marketplace" /></a>
+  <a href="https://pypi.org/user/umutgngr/"><img src="https://img.shields.io/badge/PyPI-7%20Packages-3775a9?style=flat-square&logo=pypi&logoColor=white&labelColor=161b22" alt="PyPI" /></a>
+  <a href="https://github.com/marketplace?type=actions&query=umutgungorr"><img src="https://img.shields.io/badge/Marketplace-6%20Actions-bc8cff?style=flat-square&logo=githubactions&logoColor=white&labelColor=161b22" alt="Marketplace" /></a>
 </p>
 
 <!-- Engineering Architecture & Quality Standards -->
